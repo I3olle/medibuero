@@ -15,11 +15,8 @@ convert() {
 
 git_backup() {
     git commit -am "update at $(date +\\'%Y-%m-%d-%H-%M\\')"
-    # git push origin
-    # git push gitlab
     dunstify --icon cloud "Updates were committed and pushed"
 }
 
 convert
 git_backup
-dunstify -a backup "Nothing to commit and push"
