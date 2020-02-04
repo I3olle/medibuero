@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ooo="http://openoffice.org/2004/office" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
- <office:meta><meta:creation-date>2020-02-02T14:09:31.128031281</meta:creation-date><meta:generator>LibreOffice/6.4.0.3$Linux_X86_64 LibreOffice_project/40$Build-3</meta:generator><dc:date>2020-02-04T19:42:01.780213856</dc:date><meta:editing-duration>PT3H18M34S</meta:editing-duration><meta:editing-cycles>39</meta:editing-cycles><meta:document-statistic meta:table-count="6" meta:cell-count="353" meta:object-count="0"/></office:meta>
+ <office:meta><meta:creation-date>2020-02-02T14:09:31.128031281</meta:creation-date><meta:generator>LibreOffice/6.4.0.3$Linux_X86_64 LibreOffice_project/40$Build-3</meta:generator><dc:date>2020-02-04T20:26:32.341531941</dc:date><meta:editing-duration>PT3H37M43S</meta:editing-duration><meta:editing-cycles>40</meta:editing-cycles><meta:document-statistic meta:table-count="6" meta:cell-count="377" meta:object-count="0"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
    <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">38759</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">44658</config:config-item>
    <config:config-item config:name="VisibleAreaHeight" config:type="int">5386</config:config-item>
   </config:config-item-set>
   <config:config-item-set config:name="ooo:configuration-settings">
@@ -56,7 +56,7 @@
    <config:config-item config:name="HasColumnRowHeaders" config:type="boolean">true</config:config-item>
    <config:config-item config:name="RasterSubdivisionY" config:type="int">1</config:config-item>
    <config:config-item config:name="AutoCalculate" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">vAH+/0Nhbm9uX01GNzMyQ183MzRDXzczNUMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpDYW5vbl9NRjczMkNfNzM0Q183MzVDAAAAAAAWAAMA3QAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9Q2Fub25fTUY3MzJDXzczNENfNzM1QwpvcmllbnRhdGlvbj1Qb3J0cmFpdApjb3BpZXM9MQpjb2xsYXRlPWZhbHNlCm1hcmdpbmRhanVzdG1lbnQ9MCwwLDAsMApjb2xvcmRlcHRoPTI0CnBzbGV2ZWw9MApwZGZkZXZpY2U9MQpjb2xvcmRldmljZT0wClBQRENvbnRleERhdGEKRHVwbGV4Ok5vbmUASW5wdXRTbG90OkRlZmF1bHQAUGFnZVNpemU6TGV0dGVyAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2Zm</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">vAH+/0Nhbm9uX01GNzMyQ183MzRDXzczNUMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpDYW5vbl9NRjczMkNfNzM0Q183MzVDAAAAAAAWAAMA3QAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9Q2Fub25fTUY3MzJDXzczNENfNzM1QwpvcmllbnRhdGlvbj1Qb3J0cmFpdApjb3BpZXM9MQpjb2xsYXRlPWZhbHNlCm1hcmdpbmRhanVzdG1lbnQ9MCwwLDAsMApjb2xvcmRlcHRoPTI0CnBzbGV2ZWw9MApwZGZkZXZpY2U9MQpjb2xvcmRldmljZT0wClBQRENvbnRleERhdGEKUGFnZVNpemU6TGV0dGVyAER1cGxleDpOb25lAElucHV0U2xvdDpEZWZhdWx0AAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2Zm</config:config-item>
    <config:config-item config:name="IsOutlineSymbolsSet" config:type="boolean">true</config:config-item>
    <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
@@ -172,27 +172,33 @@
    <style:table-column-properties fo:break-before="auto" style:column-width="3.221cm"/>
   </style:style>
   <style:style style:name="co12" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="2.595cm"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="3.059cm"/>
   </style:style>
   <style:style style:name="co13" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="1.143cm"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="2.84cm"/>
   </style:style>
   <style:style style:name="co14" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="1.933cm"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="2.595cm"/>
   </style:style>
   <style:style style:name="co15" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="1.224cm"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="1.143cm"/>
   </style:style>
   <style:style style:name="co16" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="2.459cm"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="1.933cm"/>
   </style:style>
   <style:style style:name="co17" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="4.411cm"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="1.224cm"/>
   </style:style>
   <style:style style:name="co18" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="5.644cm"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="2.459cm"/>
   </style:style>
   <style:style style:name="co19" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="4.411cm"/>
+  </style:style>
+  <style:style style:name="co20" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="5.644cm"/>
+  </style:style>
+  <style:style style:name="co21" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="3.466cm"/>
   </style:style>
   <style:style style:name="ro1" style:family="table-row">
@@ -231,12 +237,12 @@
   <style:style style:name="ce8" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N37">
    <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false"/>
    <style:paragraph-properties fo:text-align="center" fo:margin-left="0cm"/>
-   <style:map style:condition="cell-content()&gt;TODAY()" style:apply-style-name="Error" style:base-cell-address="Doc.E2"/>
+   <style:map style:condition="cell-content()&gt;TODAY()" style:apply-style-name="Error" style:base-cell-address="Doc.G2"/>
   </style:style>
   <style:style style:name="ce9" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false"/>
    <style:paragraph-properties fo:text-align="center" fo:margin-left="0cm"/>
-   <style:map style:condition="cell-content()&gt;TODAY()" style:apply-style-name="Error" style:base-cell-address="Doc.E2"/>
+   <style:map style:condition="cell-content()&gt;TODAY()" style:apply-style-name="Error" style:base-cell-address="Doc.G2"/>
   </style:style>
   <style:style style:name="ce10" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false"/>
@@ -296,7 +302,7 @@
      <text:p><text:sheet-name>???</text:sheet-name><text:s/>(<text:title>???</text:title>)</text:p>
     </style:region-left>
     <style:region-right>
-     <text:p><text:date style:data-style-name="N2" text:date-value="2020-02-04">00.00.0000</text:date>, <text:time style:data-style-name="N2" text:time-value="19:42:13.464774223">00:00:00</text:time></text:p>
+     <text:p><text:date style:data-style-name="N2" text:date-value="2020-02-04">00.00.0000</text:date>, <text:time style:data-style-name="N2" text:time-value="20:26:40.577450423">00:00:00</text:time></text:p>
     </style:region-right>
    </style:header>
    <style:header-left style:display="false"/>
@@ -319,13 +325,13 @@
     <table:content-validation table:name="val3" table:condition="of:cell-content-is-in-list(&quot;yes&quot;;&quot;no&quot;)" table:allow-empty-cell="true" table:display-list="unsorted" table:base-cell-address="Doc.C2">
      <table:error-message table:message-type="stop" table:display="true"/>
     </table:content-validation>
-    <table:content-validation table:name="val4" table:condition="of:cell-content-is-date() and cell-content()=0" table:allow-empty-cell="true" table:base-cell-address="Doc.E1">
+    <table:content-validation table:name="val4" table:condition="of:cell-content-is-date() and cell-content()=0" table:allow-empty-cell="true" table:base-cell-address="Doc.G1">
      <table:error-message table:message-type="stop" table:display="true"/>
     </table:content-validation>
     <table:content-validation table:name="val5" table:condition="of:cell-content-is-in-list(&quot;yes&quot;;&quot;no&quot;)" table:allow-empty-cell="true" table:display-list="unsorted" table:base-cell-address="Checklist.B1">
      <table:error-message table:message-type="stop" table:display="true"/>
     </table:content-validation>
-    <table:content-validation table:name="val6" table:condition="of:cell-content-is-in-list([$Doc.$K2:$Doc.$O16])" table:allow-empty-cell="true" table:display-list="sort-ascending" table:base-cell-address="Checklist.B5">
+    <table:content-validation table:name="val6" table:condition="of:cell-content-is-in-list([$Doc.$M2:$Doc.$Q16])" table:allow-empty-cell="true" table:display-list="sort-ascending" table:base-cell-address="Checklist.B5">
      <table:error-message table:message-type="stop" table:display="true"/>
     </table:content-validation>
    </table:content-validations>
@@ -997,7 +1003,9 @@
     <table:table-column table:style-name="co1" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co10" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co11" table:default-cell-style-name="ce5"/>
-    <table:table-column table:style-name="co12" table:default-cell-style-name="ce9"/>
+    <table:table-column table:style-name="co12" table:default-cell-style-name="ce5"/>
+    <table:table-column table:style-name="co13" table:default-cell-style-name="ce5"/>
+    <table:table-column table:style-name="co14" table:default-cell-style-name="ce9"/>
     <table:table-column table:style-name="co11" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co1" table:default-cell-style-name="ce12"/>
     <table:table-column table:style-name="co1" table:number-columns-repeated="2" table:default-cell-style-name="Default"/>
@@ -1017,6 +1025,12 @@
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Visits past month</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Upcoming visits</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Combined visits</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce7" table:content-validation-name="val4" office:value-type="string" calcext:value-type="string">
       <text:p>Unavailable till</text:p>
@@ -1047,6 +1061,12 @@
      <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$C$1:$Appointments.$C$1048576];[.$A2];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY()-30)" office:value-type="float" office:value="2" calcext:value-type="float">
       <text:p>2</text:p>
      </table:table-cell>
+     <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$C$1:$Appointments.$C$1048576];[.$A2];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY())" office:value-type="float" office:value="2" calcext:value-type="float">
+      <text:p>2</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=SUM([.D2:.E2])" office:value-type="float" office:value="4" calcext:value-type="float">
+      <text:p>4</text:p>
+     </table:table-cell>
      <table:table-cell table:style-name="ce8" table:content-validation-name="val4" office:value-type="date" office:date-value="2020-02-10" calcext:value-type="date">
       <text:p>10.02.20</text:p>
      </table:table-cell>
@@ -1072,6 +1092,12 @@
      <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$C$1:$Appointments.$C$1048576];[.$A3];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY()-30)" office:value-type="float" office:value="2" calcext:value-type="float">
       <text:p>2</text:p>
      </table:table-cell>
+     <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$C$1:$Appointments.$C$1048576];[.$A3];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY())" office:value-type="float" office:value="2" calcext:value-type="float">
+      <text:p>2</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=SUM([.D3:.E3])" office:value-type="float" office:value="4" calcext:value-type="float">
+      <text:p>4</text:p>
+     </table:table-cell>
      <table:table-cell table:style-name="ce8" table:content-validation-name="val4" office:value-type="date" office:date-value="2020-02-02" calcext:value-type="date">
       <text:p>02.02.20</text:p>
      </table:table-cell>
@@ -1094,6 +1120,12 @@
      <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$C$1:$Appointments.$C$1048576];[.$A4];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY()-30)" office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
+     <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$C$1:$Appointments.$C$1048576];[.$A4];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY())" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=SUM([.D4:.E4])" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
      <table:table-cell table:content-validation-name="val4"/>
      <table:table-cell table:number-columns-repeated="5"/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1114,6 +1146,12 @@
      <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$C$1:$Appointments.$C$1048576];[.$A5];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY()-30)" office:value-type="float" office:value="2" calcext:value-type="float">
       <text:p>2</text:p>
      </table:table-cell>
+     <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$C$1:$Appointments.$C$1048576];[.$A5];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY())" office:value-type="float" office:value="2" calcext:value-type="float">
+      <text:p>2</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=SUM([.D5:.E5])" office:value-type="float" office:value="4" calcext:value-type="float">
+      <text:p>4</text:p>
+     </table:table-cell>
      <table:table-cell table:content-validation-name="val4"/>
      <table:table-cell table:number-columns-repeated="5"/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1132,6 +1170,12 @@
       <text:p>yes</text:p>
      </table:table-cell>
      <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$C$1:$Appointments.$C$1048576];[.$A6];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY()-30)" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$C$1:$Appointments.$C$1048576];[.$A6];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY())" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=SUM([.D6:.E6])" office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
      <table:table-cell table:content-validation-name="val4"/>
@@ -1158,6 +1202,12 @@
       <text:p>no</text:p>
      </table:table-cell>
      <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$C$1:$Appointments.$C$1048576];[.$A7];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY()-30)" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$C$1:$Appointments.$C$1048576];[.$A7];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY())" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=SUM([.D7:.E7])" office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
      <table:table-cell table:content-validation-name="val4"/>
@@ -1193,6 +1243,12 @@
      <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$C$1:$Appointments.$C$1048576];[.$A8];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY()-30)" office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
+     <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$C$1:$Appointments.$C$1048576];[.$A8];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY())" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=SUM([.D8:.E8])" office:value-type="float" office:value="2" calcext:value-type="float">
+      <text:p>2</text:p>
+     </table:table-cell>
      <table:table-cell table:content-validation-name="val4"/>
      <table:table-cell table:number-columns-repeated="8"/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1208,6 +1264,12 @@
      <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$C$1:$Appointments.$C$1048576];[.$A9];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY()-30)" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
+     <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$C$1:$Appointments.$C$1048576];[.$A9];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY())" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=SUM([.D9:.E9])" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
+     </table:table-cell>
      <table:table-cell table:content-validation-name="val4"/>
      <table:table-cell table:number-columns-repeated="12"/>
     </table:table-row>
@@ -1217,6 +1279,12 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2"/>
      <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$C$1:$Appointments.$C$1048576];[.$A10];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY()-30)" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$C$1:$Appointments.$C$1048576];[.$A10];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY())" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=SUM([.D10:.E10])" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell table:content-validation-name="val4"/>
@@ -1230,6 +1298,12 @@
      <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$C$1:$Appointments.$C$1048576];[.$A11];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY()-30)" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
+     <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$C$1:$Appointments.$C$1048576];[.$A11];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY())" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=SUM([.D11:.E11])" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
+     </table:table-cell>
      <table:table-cell table:content-validation-name="val4"/>
      <table:table-cell table:number-columns-repeated="12"/>
     </table:table-row>
@@ -1241,49 +1315,55 @@
      <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$C$1:$Appointments.$C$1048576];[.$A12];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY()-30)" office:value-type="float" office:value="2" calcext:value-type="float">
       <text:p>2</text:p>
      </table:table-cell>
+     <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$C$1:$Appointments.$C$1048576];[.$A12];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY())" office:value-type="float" office:value="2" calcext:value-type="float">
+      <text:p>2</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=SUM([.D12:.E12])" office:value-type="float" office:value="4" calcext:value-type="float">
+      <text:p>4</text:p>
+     </table:table-cell>
      <table:table-cell table:content-validation-name="val4"/>
      <table:table-cell table:number-columns-repeated="12"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="4"/>
+     <table:table-cell table:number-columns-repeated="6"/>
      <table:table-cell table:content-validation-name="val4"/>
      <table:table-cell table:number-columns-repeated="12"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="4"/>
+     <table:table-cell table:number-columns-repeated="6"/>
      <table:table-cell table:content-validation-name="val4"/>
      <table:table-cell table:style-name="ce10"/>
      <table:table-cell table:number-columns-repeated="11"/>
     </table:table-row>
     <table:table-row table:style-name="ro1" table:number-rows-repeated="2">
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:style-name="ce6"/>
+     <table:table-cell table:style-name="ce6" table:number-columns-repeated="3"/>
      <table:table-cell table:style-name="ce8" table:content-validation-name="val4"/>
      <table:table-cell table:number-columns-repeated="12"/>
     </table:table-row>
     <table:table-row table:style-name="ro1" table:number-rows-repeated="1048559">
-     <table:table-cell table:number-columns-repeated="4"/>
+     <table:table-cell table:number-columns-repeated="6"/>
      <table:table-cell table:content-validation-name="val4"/>
      <table:table-cell table:number-columns-repeated="12"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:number-columns-repeated="4"/>
+     <table:table-cell table:number-columns-repeated="6"/>
      <table:table-cell table:content-validation-name="val4"/>
      <table:table-cell table:number-columns-repeated="12"/>
     </table:table-row>
     <calcext:conditional-formats>
-     <calcext:conditional-format calcext:target-range-address="Doc.E2:Doc.E1048576">
-      <calcext:condition calcext:apply-style-name="Error" calcext:value="&gt;TODAY()" calcext:base-cell-address="Doc.E2"/>
+     <calcext:conditional-format calcext:target-range-address="Doc.G2:Doc.G1048576">
+      <calcext:condition calcext:apply-style-name="Error" calcext:value="&gt;TODAY()" calcext:base-cell-address="Doc.G2"/>
      </calcext:conditional-format>
     </calcext:conditional-formats>
    </table:table>
    <table:table table:name="Appointments" table:style-name="ta1">
-    <table:table-column table:style-name="co13" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co14" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co15" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co16" table:number-columns-repeated="2" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co1" table:default-cell-style-name="ce1"/>
+    <table:table-column table:style-name="co16" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co17" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co18" table:number-columns-repeated="2" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co1" table:default-cell-style-name="ce1"/>
+    <table:table-column table:style-name="co19" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co1" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1784,8 +1864,8 @@
     </table:table-row>
    </table:table>
    <table:table table:name="Checklist" table:style-name="ta1">
-    <table:table-column table:style-name="co18" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co19" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co20" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co21" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Has the person been here before?</text:p>
@@ -1835,23 +1915,23 @@
    </table:table>
    <table:named-expressions/>
    <table:database-ranges>
-    <table:database-range table:name="__Anonymous_Sheet_DB__1" table:target-range-address="Doc.J1:Doc.M7" table:orientation="column">
-     <table:filter table:condition-source-range-address="Doc.J1:Doc.Q1048576">
+    <table:database-range table:name="__Anonymous_Sheet_DB__1" table:target-range-address="Doc.L1:Doc.O7" table:orientation="column">
+     <table:filter table:condition-source-range-address="Doc.L1:Doc.S1048576">
       <table:filter-or>
-       <table:filter-condition table:field-number="10" table:value="Snuggles" table:operator="="/>
-       <table:filter-condition table:field-number="10" table:value="Pills" table:operator="="/>
-       <table:filter-condition table:field-number="10" table:value="Sleeping" table:operator="="/>
-       <table:filter-condition table:field-number="10" table:value="Pills" table:operator="="/>
+       <table:filter-condition table:field-number="12" table:value="Snuggles" table:operator="="/>
+       <table:filter-condition table:field-number="12" table:value="Pills" table:operator="="/>
+       <table:filter-condition table:field-number="12" table:value="Sleeping" table:operator="="/>
+       <table:filter-condition table:field-number="12" table:value="Pills" table:operator="="/>
        <table:filter-and>
-        <table:filter-condition table:field-number="10" table:value="Throat" table:operator="="/>
-        <table:filter-condition table:field-number="9" table:value="Ears" table:operator="="/>
-        <table:filter-condition table:field-number="9" table:value="Mouth" table:operator="="/>
+        <table:filter-condition table:field-number="12" table:value="Throat" table:operator="="/>
+        <table:filter-condition table:field-number="11" table:value="Ears" table:operator="="/>
+        <table:filter-condition table:field-number="11" table:value="Mouth" table:operator="="/>
        </table:filter-and>
        <table:filter-and>
-        <table:filter-condition table:field-number="9" table:value="walla" table:operator="="/>
-        <table:filter-condition table:field-number="10" table:value="Knife" table:operator="="/>
-        <table:filter-condition table:field-number="9" table:value="Nose" table:operator="="/>
-        <table:filter-condition table:field-number="9" table:value="brabb" table:operator="="/>
+        <table:filter-condition table:field-number="11" table:value="walla" table:operator="="/>
+        <table:filter-condition table:field-number="12" table:value="Knife" table:operator="="/>
+        <table:filter-condition table:field-number="11" table:value="Nose" table:operator="="/>
+        <table:filter-condition table:field-number="11" table:value="brabb" table:operator="="/>
        </table:filter-and>
       </table:filter-or>
      </table:filter>
