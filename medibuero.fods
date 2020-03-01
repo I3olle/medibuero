@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ooo="http://openoffice.org/2004/office" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
- <office:meta><meta:creation-date>2020-02-02T14:09:31.128031281</meta:creation-date><meta:generator>LibreOffice/6.4.0.3$Linux_X86_64 LibreOffice_project/40$Build-3</meta:generator><dc:date>2020-02-04T20:26:32.341531941</dc:date><meta:editing-duration>PT3H37M43S</meta:editing-duration><meta:editing-cycles>40</meta:editing-cycles><meta:document-statistic meta:table-count="6" meta:cell-count="377" meta:object-count="0"/></office:meta>
+ <office:meta><meta:creation-date>2020-02-02T14:09:31.128031281</meta:creation-date><meta:generator>LibreOffice/6.4.1.2$Linux_X86_64 LibreOffice_project/40$Build-2</meta:generator><dc:date>2020-03-01T15:04:56.566140884</dc:date><meta:editing-duration>PT3H44M35S</meta:editing-duration><meta:editing-cycles>42</meta:editing-cycles><meta:document-statistic meta:table-count="6" meta:cell-count="406" meta:object-count="0"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
    <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">44658</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">5386</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">9110</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">2709</config:config-item>
   </config:config-item-set>
   <config:config-item-set config:name="ooo:configuration-settings">
    <config:config-item config:name="SyntaxStringRef" config:type="short">7</config:config-item>
@@ -56,7 +56,7 @@
    <config:config-item config:name="HasColumnRowHeaders" config:type="boolean">true</config:config-item>
    <config:config-item config:name="RasterSubdivisionY" config:type="int">1</config:config-item>
    <config:config-item config:name="AutoCalculate" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">vAH+/0Nhbm9uX01GNzMyQ183MzRDXzczNUMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpDYW5vbl9NRjczMkNfNzM0Q183MzVDAAAAAAAWAAMA3QAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9Q2Fub25fTUY3MzJDXzczNENfNzM1QwpvcmllbnRhdGlvbj1Qb3J0cmFpdApjb3BpZXM9MQpjb2xsYXRlPWZhbHNlCm1hcmdpbmRhanVzdG1lbnQ9MCwwLDAsMApjb2xvcmRlcHRoPTI0CnBzbGV2ZWw9MApwZGZkZXZpY2U9MQpjb2xvcmRldmljZT0wClBQRENvbnRleERhdGEKUGFnZVNpemU6TGV0dGVyAER1cGxleDpOb25lAElucHV0U2xvdDpEZWZhdWx0AAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2Zm</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">vAH+/0Nhbm9uX01GNzMyQ183MzRDXzczNUMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpDYW5vbl9NRjczMkNfNzM0Q183MzVDAAAAAAAWAAMA3QAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9Q2Fub25fTUY3MzJDXzczNENfNzM1QwpvcmllbnRhdGlvbj1Qb3J0cmFpdApjb3BpZXM9MQpjb2xsYXRlPWZhbHNlCm1hcmdpbmRhanVzdG1lbnQ9MCwwLDAsMApjb2xvcmRlcHRoPTI0CnBzbGV2ZWw9MApwZGZkZXZpY2U9MQpjb2xvcmRldmljZT0wClBQRENvbnRleERhdGEKRHVwbGV4Ok5vbmUASW5wdXRTbG90OkRlZmF1bHQAUGFnZVNpemU6TGV0dGVyAAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2Zm</config:config-item>
    <config:config-item config:name="IsOutlineSymbolsSet" config:type="boolean">true</config:config-item>
    <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
@@ -138,67 +138,70 @@
   </style:style>
  </office:styles>
  <office:automatic-styles>
-  <style:style style:name="co1" style:family="table-column">
+  <style:style style:name="co2" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="2.258cm"/>
   </style:style>
-  <style:style style:name="co2" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="1.034cm"/>
-  </style:style>
   <style:style style:name="co3" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="1.169cm"/>
-  </style:style>
-  <style:style style:name="co4" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="1.252cm"/>
-  </style:style>
-  <style:style style:name="co5" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="4.002cm"/>
-  </style:style>
-  <style:style style:name="co6" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="2.995cm"/>
-  </style:style>
-  <style:style style:name="co7" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="2.776cm"/>
-  </style:style>
-  <style:style style:name="co8" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="1.307cm"/>
-  </style:style>
-  <style:style style:name="co9" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="0.933cm"/>
   </style:style>
+  <style:style style:name="co4" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="1.034cm"/>
+  </style:style>
+  <style:style style:name="co5" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="1.169cm"/>
+  </style:style>
+  <style:style style:name="co6" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="1.252cm"/>
+  </style:style>
+  <style:style style:name="co7" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="4.002cm"/>
+  </style:style>
+  <style:style style:name="co8" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="2.995cm"/>
+  </style:style>
+  <style:style style:name="co9" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="2.776cm"/>
+  </style:style>
   <style:style style:name="co10" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="1.697cm"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="1.307cm"/>
   </style:style>
   <style:style style:name="co11" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="3.221cm"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="1.697cm"/>
   </style:style>
   <style:style style:name="co12" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="3.059cm"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="3.221cm"/>
   </style:style>
   <style:style style:name="co13" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="2.84cm"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="3.059cm"/>
   </style:style>
   <style:style style:name="co14" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="2.595cm"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="2.84cm"/>
   </style:style>
   <style:style style:name="co15" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="1.143cm"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="2.949cm"/>
   </style:style>
   <style:style style:name="co16" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="1.933cm"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="2.595cm"/>
   </style:style>
   <style:style style:name="co17" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="1.224cm"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="1.143cm"/>
   </style:style>
   <style:style style:name="co18" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="2.459cm"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="1.933cm"/>
   </style:style>
   <style:style style:name="co19" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="4.411cm"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="2.459cm"/>
   </style:style>
   <style:style style:name="co20" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="5.644cm"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="1.224cm"/>
   </style:style>
   <style:style style:name="co21" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="4.411cm"/>
+  </style:style>
+  <style:style style:name="co22" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="5.644cm"/>
+  </style:style>
+  <style:style style:name="co23" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="3.466cm"/>
   </style:style>
   <style:style style:name="ro1" style:family="table-row">
@@ -230,6 +233,16 @@
    <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false"/>
    <style:paragraph-properties fo:text-align="center" fo:margin-left="0cm"/>
   </style:style>
+  <style:style style:name="ce15" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N37">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0cm"/>
+   <style:map style:condition="cell-content()&gt;TODAY()" style:apply-style-name="Error" style:base-cell-address="Doc.G2"/>
+  </style:style>
+  <style:style style:name="ce16" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0cm"/>
+   <style:map style:condition="cell-content()&gt;TODAY()" style:apply-style-name="Error" style:base-cell-address="Doc.G2"/>
+  </style:style>
   <style:style style:name="ce7" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false"/>
    <style:paragraph-properties fo:text-align="center" fo:margin-left="0cm"/>
@@ -248,14 +261,14 @@
    <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false"/>
    <style:paragraph-properties fo:text-align="start" fo:margin-left="0cm"/>
   </style:style>
-  <style:style style:name="ce19" style:family="table-cell" style:parent-style-name="Default">
+  <style:style style:name="ce23" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:border-bottom="none" style:text-align-source="fix" style:repeat-content="false" fo:border-left="0.06pt solid #000000" fo:border-right="0.06pt solid #000000" fo:border-top="none"/>
    <style:paragraph-properties fo:text-align="center" fo:margin-left="0cm"/>
   </style:style>
   <style:style style:name="ce12" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:border-bottom="none" fo:border-left="0.06pt solid #000000" fo:border-right="none" fo:border-top="none"/>
   </style:style>
-  <style:style style:name="ce21" style:family="table-cell" style:parent-style-name="Default">
+  <style:style style:name="ce25" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:border-bottom="none" fo:border-left="none" fo:border-right="0.06pt solid #000000" fo:border-top="none"/>
   </style:style>
   <style:style style:name="ce14" style:family="table-cell" style:parent-style-name="Default">
@@ -302,7 +315,7 @@
      <text:p><text:sheet-name>???</text:sheet-name><text:s/>(<text:title>???</text:title>)</text:p>
     </style:region-left>
     <style:region-right>
-     <text:p><text:date style:data-style-name="N2" text:date-value="2020-02-04">00.00.0000</text:date>, <text:time style:data-style-name="N2" text:time-value="20:26:40.577450423">00:00:00</text:time></text:p>
+     <text:p><text:date style:data-style-name="N2" text:date-value="2020-03-01">00.00.0000</text:date>, <text:time style:data-style-name="N2" text:time-value="15:05:14.624427561">00:00:00</text:time></text:p>
     </style:region-right>
    </style:header>
    <style:header-left style:display="false"/>
@@ -325,28 +338,32 @@
     <table:content-validation table:name="val3" table:condition="of:cell-content-is-in-list(&quot;yes&quot;;&quot;no&quot;)" table:allow-empty-cell="true" table:display-list="unsorted" table:base-cell-address="Doc.C2">
      <table:error-message table:message-type="stop" table:display="true"/>
     </table:content-validation>
-    <table:content-validation table:name="val4" table:condition="of:cell-content-is-date() and cell-content()=0" table:allow-empty-cell="true" table:base-cell-address="Doc.G1">
+    <table:content-validation table:name="val4" table:condition="of:cell-content-is-date() and cell-content()&gt;0" table:allow-empty-cell="true" table:base-cell-address="Doc.G2">
      <table:error-message table:message-type="stop" table:display="true"/>
     </table:content-validation>
-    <table:content-validation table:name="val5" table:condition="of:cell-content-is-in-list(&quot;yes&quot;;&quot;no&quot;)" table:allow-empty-cell="true" table:display-list="unsorted" table:base-cell-address="Checklist.B1">
+    <table:content-validation table:name="val5" table:condition="of:cell-content-is-date() and cell-content()=0" table:allow-empty-cell="true" table:base-cell-address="Doc.H1">
      <table:error-message table:message-type="stop" table:display="true"/>
     </table:content-validation>
-    <table:content-validation table:name="val6" table:condition="of:cell-content-is-in-list([$Doc.$M2:$Doc.$Q16])" table:allow-empty-cell="true" table:display-list="sort-ascending" table:base-cell-address="Checklist.B5">
+    <table:content-validation table:name="val6" table:condition="of:cell-content-is-in-list(&quot;yes&quot;;&quot;no&quot;)" table:allow-empty-cell="true" table:display-list="unsorted" table:base-cell-address="Checklist.B1">
+     <table:error-message table:message-type="stop" table:display="true"/>
+    </table:content-validation>
+    <table:content-validation table:name="val7" table:condition="of:cell-content-is-in-list([$Doc.$N2:$Doc.$R16])" table:allow-empty-cell="true" table:display-list="sort-ascending" table:base-cell-address="Checklist.B5">
      <table:error-message table:message-type="stop" table:display="true"/>
     </table:content-validation>
    </table:content-validations>
    <table:table table:name="Patients" table:style-name="ta1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-    <table:table-column table:style-name="co1" table:number-columns-repeated="2" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co2" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co3" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co2" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co4" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co1" table:number-columns-repeated="2" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co5" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co6" table:default-cell-style-name="ce1"/>
+    <table:table-column table:style-name="co6" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co2" table:number-columns-repeated="2" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co7" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co1" table:number-columns-repeated="2" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co8" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co8" table:default-cell-style-name="ce1"/>
+    <table:table-column table:style-name="co9" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co2" table:number-columns-repeated="2" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co10" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>ID</text:p>
@@ -411,10 +428,10 @@
      <table:table-cell table:style-name="ce2" table:formula="of:=INDEX([$Appointments.G$1:$Appointments.G$1048576]; MATCH([.A2]&amp;[.I2]; [$Appointments.$B$1:$Appointments.$B$1048576]&amp;[$Appointments.$F$1:$Appointments.$F$1048576]; 0))" office:value-type="string" office:string-value="Cough" calcext:value-type="string">
       <text:p>Cough</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce2" table:formula="of:=INDEX([$Doc.$B$1:$Doc.$B$1048576]; MATCH(INDEX([$Appointments.$C$1:$Appointments.$C$1048576]; MATCH([.$A2]&amp;[.$I2]; [$Appointments.$B$1:$Appointments.$B$1048576]&amp;[$Appointments.$F$1:$Appointments.$F$1048576]; 0)); [$Doc.$A$1:$Doc.$A$1048576]; 0))" office:value-type="string" office:string-value="Don" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" table:formula="of:=INDEX([$Doc.$B$1:$Doc.$B$1048576]; MATCH(INDEX([$Appointments.$D$1:$Appointments.$D$1048576]; MATCH([.$A2]&amp;[.$I2]; [$Appointments.$B$1:$Appointments.$B$1048576]&amp;[$Appointments.$F$1:$Appointments.$F$1048576]; 0)); [$Doc.$A$1:$Doc.$A$1048576]; 0))" office:value-type="string" office:string-value="Don" calcext:value-type="string">
       <text:p>Don</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce2" table:formula="of:=INDEX([$Appointments.$C$1:$Appointments.$C$1048576]; MATCH([.$A2]&amp;[.$I2]; [$Appointments.$B$1:$Appointments.$B$1048576]&amp;[$Appointments.$F$1:$Appointments.$F$1048576]; 0))" office:value-type="string" office:string-value="D3" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" table:formula="of:=INDEX([$Appointments.$D$1:$Appointments.$D$1048576]; MATCH([.$A2]&amp;[.$I2]; [$Appointments.$B$1:$Appointments.$B$1048576]&amp;[$Appointments.$F$1:$Appointments.$F$1048576]; 0))" office:value-type="string" office:string-value="D3" calcext:value-type="string">
       <text:p>D3</text:p>
      </table:table-cell>
      <table:table-cell/>
@@ -446,7 +463,7 @@
      <table:table-cell table:style-name="ce2" table:formula="of:=INDEX([$Appointments.G$1:$Appointments.G$1048576]; MATCH([.A3]&amp;[.I3]; [$Appointments.$B$1:$Appointments.$B$1048576]&amp;[$Appointments.$F$1:$Appointments.$F$1048576]; 0))" office:value-type="string" office:string-value="Heartache" calcext:value-type="string">
       <text:p>Heartache</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce2" table:formula="of:=INDEX([$Doc.$B$1:$Doc.$B$1048576]; MATCH(INDEX([$Appointments.$C$1:$Appointments.$C$1048576]; MATCH([.$A3]&amp;[.$I3]; [$Appointments.$B$1:$Appointments.$B$1048576]&amp;[$Appointments.$F$1:$Appointments.$F$1048576]; 0)); [$Doc.$A$1:$Doc.$A$1048576]; 0))" office:value-type="string" office:string-value="Diablo" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" table:formula="of:=INDEX([$Doc.$B$1:$Doc.$B$1048576]; MATCH(INDEX([$Appointments.$D$1:$Appointments.$D$1048576]; MATCH([.$A3]&amp;[.$I3]; [$Appointments.$B$1:$Appointments.$B$1048576]&amp;[$Appointments.$F$1:$Appointments.$F$1048576]; 0)); [$Doc.$A$1:$Doc.$A$1048576]; 0))" office:value-type="string" office:string-value="Diablo" calcext:value-type="string">
       <text:p>Diablo</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2"/>
@@ -478,7 +495,7 @@
      <table:table-cell table:style-name="ce2" table:formula="of:=INDEX([$Appointments.G$1:$Appointments.G$1048576]; MATCH([.A4]&amp;[.I4]; [$Appointments.$B$1:$Appointments.$B$1048576]&amp;[$Appointments.$F$1:$Appointments.$F$1048576]; 0))" office:value-type="string" office:string-value="bang" calcext:value-type="string">
       <text:p>bang</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce2" table:formula="of:=INDEX([$Doc.$B$1:$Doc.$B$1048576]; MATCH(INDEX([$Appointments.$C$1:$Appointments.$C$1048576]; MATCH([.$A4]&amp;[.$I4]; [$Appointments.$B$1:$Appointments.$B$1048576]&amp;[$Appointments.$F$1:$Appointments.$F$1048576]; 0)); [$Doc.$A$1:$Doc.$A$1048576]; 0))" office:value-type="string" office:string-value="Diane" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" table:formula="of:=INDEX([$Doc.$B$1:$Doc.$B$1048576]; MATCH(INDEX([$Appointments.$D$1:$Appointments.$D$1048576]; MATCH([.$A4]&amp;[.$I4]; [$Appointments.$B$1:$Appointments.$B$1048576]&amp;[$Appointments.$F$1:$Appointments.$F$1048576]; 0)); [$Doc.$A$1:$Doc.$A$1048576]; 0))" office:value-type="string" office:string-value="Diane" calcext:value-type="string">
       <text:p>Diane</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2"/>
@@ -505,7 +522,7 @@
      <table:table-cell table:style-name="ce2" table:formula="of:=INDEX([$Appointments.G$1:$Appointments.G$1048576]; MATCH([.A5]&amp;[.I5]; [$Appointments.$B$1:$Appointments.$B$1048576]&amp;[$Appointments.$F$1:$Appointments.$F$1048576]; 0))" office:value-type="string" office:string-value="zeppo" calcext:value-type="string">
       <text:p>zeppo</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce2" table:formula="of:=INDEX([$Doc.$B$1:$Doc.$B$1048576]; MATCH(INDEX([$Appointments.$C$1:$Appointments.$C$1048576]; MATCH([.$A5]&amp;[.$I5]; [$Appointments.$B$1:$Appointments.$B$1048576]&amp;[$Appointments.$F$1:$Appointments.$F$1048576]; 0)); [$Doc.$A$1:$Doc.$A$1048576]; 0))" office:value-type="string" office:string-value="Donna" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" table:formula="of:=INDEX([$Doc.$B$1:$Doc.$B$1048576]; MATCH(INDEX([$Appointments.$D$1:$Appointments.$D$1048576]; MATCH([.$A5]&amp;[.$I5]; [$Appointments.$B$1:$Appointments.$B$1048576]&amp;[$Appointments.$F$1:$Appointments.$F$1048576]; 0)); [$Doc.$A$1:$Doc.$A$1048576]; 0))" office:value-type="string" office:string-value="Donna" calcext:value-type="string">
       <text:p>Donna</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2"/>
@@ -532,7 +549,7 @@
      <table:table-cell table:style-name="ce2" table:formula="of:=INDEX([$Appointments.G$1:$Appointments.G$1048576]; MATCH([.A6]&amp;[.I6]; [$Appointments.$B$1:$Appointments.$B$1048576]&amp;[$Appointments.$F$1:$Appointments.$F$1048576]; 0))" office:value-type="string" office:string-value="ziro" calcext:value-type="string">
       <text:p>ziro</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce2" table:formula="of:=INDEX([$Doc.$B$1:$Doc.$B$1048576]; MATCH(INDEX([$Appointments.$C$1:$Appointments.$C$1048576]; MATCH([.$A6]&amp;[.$I6]; [$Appointments.$B$1:$Appointments.$B$1048576]&amp;[$Appointments.$F$1:$Appointments.$F$1048576]; 0)); [$Doc.$A$1:$Doc.$A$1048576]; 0))" office:value-type="string" office:string-value="" calcext:value-type="error">
+     <table:table-cell table:style-name="ce2" table:formula="of:=INDEX([$Doc.$B$1:$Doc.$B$1048576]; MATCH(INDEX([$Appointments.$D$1:$Appointments.$D$1048576]; MATCH([.$A6]&amp;[.$I6]; [$Appointments.$B$1:$Appointments.$B$1048576]&amp;[$Appointments.$F$1:$Appointments.$F$1048576]; 0)); [$Doc.$A$1:$Doc.$A$1048576]; 0))" office:value-type="string" office:string-value="" calcext:value-type="error">
       <text:p>#N/A</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2"/>
@@ -559,7 +576,7 @@
      <table:table-cell table:style-name="ce2" table:formula="of:=INDEX([$Appointments.G$1:$Appointments.G$1048576]; MATCH([.A7]&amp;[.I7]; [$Appointments.$B$1:$Appointments.$B$1048576]&amp;[$Appointments.$F$1:$Appointments.$F$1048576]; 0))" office:value-type="string" office:string-value="you" calcext:value-type="string">
       <text:p>you</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce2" table:formula="of:=INDEX([$Doc.$B$1:$Doc.$B$1048576]; MATCH(INDEX([$Appointments.$C$1:$Appointments.$C$1048576]; MATCH([.$A7]&amp;[.$I7]; [$Appointments.$B$1:$Appointments.$B$1048576]&amp;[$Appointments.$F$1:$Appointments.$F$1048576]; 0)); [$Doc.$A$1:$Doc.$A$1048576]; 0))" office:value-type="string" office:string-value="Dean" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" table:formula="of:=INDEX([$Doc.$B$1:$Doc.$B$1048576]; MATCH(INDEX([$Appointments.$D$1:$Appointments.$D$1048576]; MATCH([.$A7]&amp;[.$I7]; [$Appointments.$B$1:$Appointments.$B$1048576]&amp;[$Appointments.$F$1:$Appointments.$F$1048576]; 0)); [$Doc.$A$1:$Doc.$A$1048576]; 0))" office:value-type="string" office:string-value="Dean" calcext:value-type="string">
       <text:p>Dean</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2"/>
@@ -568,7 +585,10 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>P7</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Perk</text:p>
+     </table:table-cell>
+     <table:table-cell/>
      <table:table-cell table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
       <text:p>m</text:p>
      </table:table-cell>
@@ -583,7 +603,7 @@
      <table:table-cell table:style-name="ce2" table:formula="of:=INDEX([$Appointments.G$1:$Appointments.G$1048576]; MATCH([.A8]&amp;[.I8]; [$Appointments.$B$1:$Appointments.$B$1048576]&amp;[$Appointments.$F$1:$Appointments.$F$1048576]; 0))" office:value-type="string" office:string-value="us" calcext:value-type="string">
       <text:p>us</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce2" table:formula="of:=INDEX([$Doc.$B$1:$Doc.$B$1048576]; MATCH(INDEX([$Appointments.$C$1:$Appointments.$C$1048576]; MATCH([.$A8]&amp;[.$I8]; [$Appointments.$B$1:$Appointments.$B$1048576]&amp;[$Appointments.$F$1:$Appointments.$F$1048576]; 0)); [$Doc.$A$1:$Doc.$A$1048576]; 0))" office:value-type="string" office:string-value="Donna" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" table:formula="of:=INDEX([$Doc.$B$1:$Doc.$B$1048576]; MATCH(INDEX([$Appointments.$D$1:$Appointments.$D$1048576]; MATCH([.$A8]&amp;[.$I8]; [$Appointments.$B$1:$Appointments.$B$1048576]&amp;[$Appointments.$F$1:$Appointments.$F$1048576]; 0)); [$Doc.$A$1:$Doc.$A$1048576]; 0))" office:value-type="string" office:string-value="Donna" calcext:value-type="string">
       <text:p>Donna</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2"/>
@@ -592,7 +612,10 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>P8</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Pal</text:p>
+     </table:table-cell>
+     <table:table-cell/>
      <table:table-cell table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
       <text:p>f</text:p>
      </table:table-cell>
@@ -607,7 +630,7 @@
      <table:table-cell table:style-name="ce2" table:formula="of:=INDEX([$Appointments.G$1:$Appointments.G$1048576]; MATCH([.A9]&amp;[.I9]; [$Appointments.$B$1:$Appointments.$B$1048576]&amp;[$Appointments.$F$1:$Appointments.$F$1048576]; 0))" office:value-type="string" office:string-value="Whatevs" calcext:value-type="string">
       <text:p>Whatevs</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce2" table:formula="of:=INDEX([$Doc.$B$1:$Doc.$B$1048576]; MATCH(INDEX([$Appointments.$C$1:$Appointments.$C$1048576]; MATCH([.$A9]&amp;[.$I9]; [$Appointments.$B$1:$Appointments.$B$1048576]&amp;[$Appointments.$F$1:$Appointments.$F$1048576]; 0)); [$Doc.$A$1:$Doc.$A$1048576]; 0))" office:value-type="string" office:string-value="Dingo" calcext:value-type="string">
+     <table:table-cell table:style-name="ce2" table:formula="of:=INDEX([$Doc.$B$1:$Doc.$B$1048576]; MATCH(INDEX([$Appointments.$D$1:$Appointments.$D$1048576]; MATCH([.$A9]&amp;[.$I9]; [$Appointments.$B$1:$Appointments.$B$1048576]&amp;[$Appointments.$F$1:$Appointments.$F$1048576]; 0)); [$Doc.$A$1:$Doc.$A$1048576]; 0))" office:value-type="string" office:string-value="Dingo" calcext:value-type="string">
       <text:p>Dingo</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2"/>
@@ -616,7 +639,10 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>P9</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Ding</text:p>
+     </table:table-cell>
+     <table:table-cell/>
      <table:table-cell table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
       <text:p>o</text:p>
      </table:table-cell>
@@ -628,7 +654,7 @@
      <table:table-cell table:style-name="ce2" table:formula="of:=INDEX([$Appointments.G$1:$Appointments.G$1048576]; MATCH([.A10]&amp;[.I10]; [$Appointments.$B$1:$Appointments.$B$1048576]&amp;[$Appointments.$F$1:$Appointments.$F$1048576]; 0))" office:value-type="string" office:string-value="" calcext:value-type="error">
       <text:p>#N/A</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce2" table:formula="of:=INDEX([$Appointments.$C$1:$Appointments.$C$1048576]; MATCH([.$A10]&amp;[.$I10]; [$Appointments.$B$1:$Appointments.$B$1048576]&amp;[$Appointments.$F$1:$Appointments.$F$1048576]; 0))" office:value-type="string" office:string-value="" calcext:value-type="error">
+     <table:table-cell table:style-name="ce2" table:formula="of:=INDEX([$Appointments.$D$1:$Appointments.$D$1048576]; MATCH([.$A10]&amp;[.$I10]; [$Appointments.$B$1:$Appointments.$B$1048576]&amp;[$Appointments.$F$1:$Appointments.$F$1048576]; 0))" office:value-type="string" office:string-value="" calcext:value-type="error">
       <text:p>#N/A</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2"/>
@@ -637,7 +663,10 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>P10</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Dong</text:p>
+     </table:table-cell>
+     <table:table-cell/>
      <table:table-cell table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
       <text:p>f</text:p>
      </table:table-cell>
@@ -649,7 +678,7 @@
      <table:table-cell table:style-name="ce2" table:formula="of:=INDEX([$Appointments.G$1:$Appointments.G$1048576]; MATCH([.A11]&amp;[.I11]; [$Appointments.$B$1:$Appointments.$B$1048576]&amp;[$Appointments.$F$1:$Appointments.$F$1048576]; 0))" office:value-type="string" office:string-value="" calcext:value-type="error">
       <text:p>#N/A</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce2" table:formula="of:=INDEX([$Appointments.$C$1:$Appointments.$C$1048576]; MATCH([.$A11]&amp;[.$I11]; [$Appointments.$B$1:$Appointments.$B$1048576]&amp;[$Appointments.$F$1:$Appointments.$F$1048576]; 0))" office:value-type="string" office:string-value="" calcext:value-type="error">
+     <table:table-cell table:style-name="ce2" table:formula="of:=INDEX([$Appointments.$D$1:$Appointments.$D$1048576]; MATCH([.$A11]&amp;[.$I11]; [$Appointments.$B$1:$Appointments.$B$1048576]&amp;[$Appointments.$F$1:$Appointments.$F$1048576]; 0))" office:value-type="string" office:string-value="" calcext:value-type="error">
       <text:p>#N/A</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2"/>
@@ -658,7 +687,10 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>P11</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Däng</text:p>
+     </table:table-cell>
+     <table:table-cell/>
      <table:table-cell table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
       <text:p>m</text:p>
      </table:table-cell>
@@ -670,7 +702,7 @@
      <table:table-cell table:style-name="ce2" table:formula="of:=INDEX([$Appointments.G$1:$Appointments.G$1048576]; MATCH([.A12]&amp;[.I12]; [$Appointments.$B$1:$Appointments.$B$1048576]&amp;[$Appointments.$F$1:$Appointments.$F$1048576]; 0))" office:value-type="string" office:string-value="" calcext:value-type="error">
       <text:p>#N/A</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce2" table:formula="of:=INDEX([$Appointments.$C$1:$Appointments.$C$1048576]; MATCH([.$A12]&amp;[.$I12]; [$Appointments.$B$1:$Appointments.$B$1048576]&amp;[$Appointments.$F$1:$Appointments.$F$1048576]; 0))" office:value-type="string" office:string-value="" calcext:value-type="error">
+     <table:table-cell table:style-name="ce2" table:formula="of:=INDEX([$Appointments.$D$1:$Appointments.$D$1048576]; MATCH([.$A12]&amp;[.$I12]; [$Appointments.$B$1:$Appointments.$B$1048576]&amp;[$Appointments.$F$1:$Appointments.$F$1048576]; 0))" office:value-type="string" office:string-value="" calcext:value-type="error">
       <text:p>#N/A</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2"/>
@@ -679,7 +711,10 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>P12</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Dork</text:p>
+     </table:table-cell>
+     <table:table-cell/>
      <table:table-cell table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
       <text:p>f</text:p>
      </table:table-cell>
@@ -691,16 +726,13 @@
      <table:table-cell table:style-name="ce2" table:formula="of:=INDEX([$Appointments.G$1:$Appointments.G$1048576]; MATCH([.A13]&amp;[.I13]; [$Appointments.$B$1:$Appointments.$B$1048576]&amp;[$Appointments.$F$1:$Appointments.$F$1048576]; 0))" office:value-type="string" office:string-value="" calcext:value-type="error">
       <text:p>#N/A</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce2" table:formula="of:=INDEX([$Appointments.$C$1:$Appointments.$C$1048576]; MATCH([.$A13]&amp;[.$I13]; [$Appointments.$B$1:$Appointments.$B$1048576]&amp;[$Appointments.$F$1:$Appointments.$F$1048576]; 0))" office:value-type="string" office:string-value="" calcext:value-type="error">
+     <table:table-cell table:style-name="ce2" table:formula="of:=INDEX([$Appointments.$D$1:$Appointments.$D$1048576]; MATCH([.$A13]&amp;[.$I13]; [$Appointments.$B$1:$Appointments.$B$1048576]&amp;[$Appointments.$F$1:$Appointments.$F$1048576]; 0))" office:value-type="string" office:string-value="" calcext:value-type="error">
       <text:p>#N/A</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>P13</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="3"/>
      <table:table-cell table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
       <text:p>m</text:p>
      </table:table-cell>
@@ -709,19 +741,16 @@
      </table:table-cell>
      <table:table-cell table:content-validation-name="val2"/>
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:style-name="ce2" table:formula="of:=INDEX([$Appointments.G$1:$Appointments.G$1048576]; MATCH([.A14]&amp;[.I14]; [$Appointments.$B$1:$Appointments.$B$1048576]&amp;[$Appointments.$F$1:$Appointments.$F$1048576]; 0))" office:value-type="string" office:string-value="" calcext:value-type="error">
-      <text:p>#N/A</text:p>
+     <table:table-cell table:style-name="ce2" table:formula="of:=INDEX([$Appointments.G$1:$Appointments.G$1048576]; MATCH([.A14]&amp;[.I14]; [$Appointments.$B$1:$Appointments.$B$1048576]&amp;[$Appointments.$F$1:$Appointments.$F$1048576]; 0))" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce2" table:formula="of:=INDEX([$Appointments.$C$1:$Appointments.$C$1048576]; MATCH([.$A14]&amp;[.$I14]; [$Appointments.$B$1:$Appointments.$B$1048576]&amp;[$Appointments.$F$1:$Appointments.$F$1048576]; 0))" office:value-type="string" office:string-value="" calcext:value-type="error">
-      <text:p>#N/A</text:p>
+     <table:table-cell table:style-name="ce2" table:formula="of:=INDEX([$Appointments.$D$1:$Appointments.$D$1048576]; MATCH([.$A14]&amp;[.$I14]; [$Appointments.$B$1:$Appointments.$B$1048576]&amp;[$Appointments.$F$1:$Appointments.$F$1048576]; 0))" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>P14</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="3"/>
      <table:table-cell table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
       <text:p>f</text:p>
      </table:table-cell>
@@ -730,19 +759,16 @@
      </table:table-cell>
      <table:table-cell table:content-validation-name="val2"/>
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:style-name="ce2" table:formula="of:=INDEX([$Appointments.G$1:$Appointments.G$1048576]; MATCH([.A15]&amp;[.I15]; [$Appointments.$B$1:$Appointments.$B$1048576]&amp;[$Appointments.$F$1:$Appointments.$F$1048576]; 0))" office:value-type="string" office:string-value="" calcext:value-type="error">
-      <text:p>#N/A</text:p>
+     <table:table-cell table:style-name="ce2" table:formula="of:=INDEX([$Appointments.G$1:$Appointments.G$1048576]; MATCH([.A15]&amp;[.I15]; [$Appointments.$B$1:$Appointments.$B$1048576]&amp;[$Appointments.$F$1:$Appointments.$F$1048576]; 0))" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce2" table:formula="of:=INDEX([$Appointments.$C$1:$Appointments.$C$1048576]; MATCH([.$A15]&amp;[.$I15]; [$Appointments.$B$1:$Appointments.$B$1048576]&amp;[$Appointments.$F$1:$Appointments.$F$1048576]; 0))" office:value-type="string" office:string-value="" calcext:value-type="error">
-      <text:p>#N/A</text:p>
+     <table:table-cell table:style-name="ce2" table:formula="of:=INDEX([$Appointments.$D$1:$Appointments.$D$1048576]; MATCH([.$A15]&amp;[.$I15]; [$Appointments.$B$1:$Appointments.$B$1048576]&amp;[$Appointments.$F$1:$Appointments.$F$1048576]; 0))" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>P15</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="3"/>
      <table:table-cell table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
       <text:p>o</text:p>
      </table:table-cell>
@@ -751,19 +777,16 @@
      </table:table-cell>
      <table:table-cell table:content-validation-name="val2"/>
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:style-name="ce2" table:formula="of:=INDEX([$Appointments.G$1:$Appointments.G$1048576]; MATCH([.A16]&amp;[.I16]; [$Appointments.$B$1:$Appointments.$B$1048576]&amp;[$Appointments.$F$1:$Appointments.$F$1048576]; 0))" office:value-type="string" office:string-value="" calcext:value-type="error">
-      <text:p>#N/A</text:p>
+     <table:table-cell table:style-name="ce2" table:formula="of:=INDEX([$Appointments.G$1:$Appointments.G$1048576]; MATCH([.A16]&amp;[.I16]; [$Appointments.$B$1:$Appointments.$B$1048576]&amp;[$Appointments.$F$1:$Appointments.$F$1048576]; 0))" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce2" table:formula="of:=INDEX([$Appointments.$C$1:$Appointments.$C$1048576]; MATCH([.$A16]&amp;[.$I16]; [$Appointments.$B$1:$Appointments.$B$1048576]&amp;[$Appointments.$F$1:$Appointments.$F$1048576]; 0))" office:value-type="string" office:string-value="" calcext:value-type="error">
-      <text:p>#N/A</text:p>
+     <table:table-cell table:style-name="ce2" table:formula="of:=INDEX([$Appointments.$D$1:$Appointments.$D$1048576]; MATCH([.$A16]&amp;[.$I16]; [$Appointments.$B$1:$Appointments.$B$1048576]&amp;[$Appointments.$F$1:$Appointments.$F$1048576]; 0))" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>P16</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="3"/>
      <table:table-cell table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
       <text:p>f</text:p>
      </table:table-cell>
@@ -774,42 +797,7 @@
      <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>P17</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
-      <text:p>m</text:p>
-     </table:table-cell>
-     <table:table-cell table:content-validation-name="val2" office:value-type="string" calcext:value-type="string">
-      <text:p>no</text:p>
-     </table:table-cell>
-     <table:table-cell table:content-validation-name="val2"/>
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>bum</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="3"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro1">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>P18</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
-      <text:p>f</text:p>
-     </table:table-cell>
-     <table:table-cell table:content-validation-name="val2" office:value-type="string" calcext:value-type="string">
-      <text:p>yes</text:p>
-     </table:table-cell>
-     <table:table-cell table:content-validation-name="val2"/>
-     <table:table-cell table:number-columns-repeated="7"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro1">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>P19</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
      <table:table-cell table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
       <text:p>m</text:p>
      </table:table-cell>
@@ -820,10 +808,7 @@
      <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>P20</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="3"/>
      <table:table-cell table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
       <text:p>f</text:p>
      </table:table-cell>
@@ -834,10 +819,29 @@
      <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>P21</text:p>
+     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>m</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:content-validation-name="val2" office:value-type="string" calcext:value-type="string">
+      <text:p>no</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val2"/>
+     <table:table-cell table:number-columns-repeated="7"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>f</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val2" office:value-type="string" calcext:value-type="string">
+      <text:p>yes</text:p>
+     </table:table-cell>
+     <table:table-cell table:content-validation-name="val2"/>
+     <table:table-cell table:number-columns-repeated="7"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="3"/>
      <table:table-cell table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
       <text:p>o</text:p>
      </table:table-cell>
@@ -848,10 +852,7 @@
      <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>P22</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="3"/>
      <table:table-cell table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
       <text:p>f</text:p>
      </table:table-cell>
@@ -862,10 +863,7 @@
      <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>P23</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="3"/>
      <table:table-cell table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
       <text:p>m</text:p>
      </table:table-cell>
@@ -876,10 +874,7 @@
      <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>P24</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="3"/>
      <table:table-cell table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
       <text:p>f</text:p>
      </table:table-cell>
@@ -890,10 +885,7 @@
      <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>P25</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="3"/>
      <table:table-cell table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
       <text:p>m</text:p>
      </table:table-cell>
@@ -904,10 +896,7 @@
      <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>P26</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="3"/>
      <table:table-cell table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
       <text:p>f</text:p>
      </table:table-cell>
@@ -998,21 +987,21 @@
     </table:table-row>
    </table:table>
    <table:table table:name="Doc" table:style-name="ta1">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-    <table:table-column table:style-name="co9" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co1" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co10" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co11" table:default-cell-style-name="ce5"/>
+    <table:table-column table:style-name="co3" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co2" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co11" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co12" table:default-cell-style-name="ce5"/>
     <table:table-column table:style-name="co13" table:default-cell-style-name="ce5"/>
-    <table:table-column table:style-name="co14" table:default-cell-style-name="ce9"/>
-    <table:table-column table:style-name="co11" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co1" table:default-cell-style-name="ce12"/>
-    <table:table-column table:style-name="co1" table:number-columns-repeated="2" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co1" table:default-cell-style-name="ce21"/>
-    <table:table-column table:style-name="co1" table:default-cell-style-name="ce12"/>
-    <table:table-column table:style-name="co1" table:number-columns-repeated="5" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co1" table:default-cell-style-name="ce21"/>
+    <table:table-column table:style-name="co14" table:default-cell-style-name="ce5"/>
+    <table:table-column table:style-name="co15" table:default-cell-style-name="ce16"/>
+    <table:table-column table:style-name="co16" table:default-cell-style-name="ce9"/>
+    <table:table-column table:style-name="co12" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co2" table:default-cell-style-name="ce12"/>
+    <table:table-column table:style-name="co2" table:number-columns-repeated="2" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co2" table:default-cell-style-name="ce25"/>
+    <table:table-column table:style-name="co2" table:default-cell-style-name="ce12"/>
+    <table:table-column table:style-name="co2" table:number-columns-repeated="5" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co2" table:default-cell-style-name="ce25"/>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>ID</text:p>
@@ -1032,17 +1021,20 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Combined visits</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce7" table:content-validation-name="val4" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val4" office:value-type="string" calcext:value-type="string">
+      <text:p>Unavailable from</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce7" table:content-validation-name="val5" office:value-type="string" calcext:value-type="string">
       <text:p>Unavailable till</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Address</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce19" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="4" table:number-rows-spanned="1">
+     <table:table-cell table:style-name="ce23" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="4" table:number-rows-spanned="1">
       <text:p>Languages</text:p>
      </table:table-cell>
      <table:covered-table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:style-name="ce19" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="7" table:number-rows-spanned="1">
+     <table:table-cell table:style-name="ce23" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="7" table:number-rows-spanned="1">
       <text:p>Expertise</text:p>
      </table:table-cell>
      <table:covered-table-cell table:number-columns-repeated="5" table:style-name="ce5"/>
@@ -1058,16 +1050,19 @@
      <table:table-cell table:content-validation-name="val3" office:value-type="string" calcext:value-type="string">
       <text:p>yes</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$C$1:$Appointments.$C$1048576];[.$A2];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY()-30)" office:value-type="float" office:value="2" calcext:value-type="float">
+     <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$D$1:$Appointments.$D$1048576];[.$A2];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY()-30)" office:value-type="float" office:value="2" calcext:value-type="float">
       <text:p>2</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$C$1:$Appointments.$C$1048576];[.$A2];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY())" office:value-type="float" office:value="2" calcext:value-type="float">
+     <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$D$1:$Appointments.$D$1048576];[.$A2];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY())" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=SUM([.D2:.E2])" office:value-type="float" office:value="2" calcext:value-type="float">
       <text:p>2</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=SUM([.D2:.E2])" office:value-type="float" office:value="4" calcext:value-type="float">
-      <text:p>4</text:p>
+     <table:table-cell table:style-name="ce15" table:content-validation-name="val4" office:value-type="date" office:date-value="2020-01-10" calcext:value-type="date">
+      <text:p>10.01.20</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce8" table:content-validation-name="val4" office:value-type="date" office:date-value="2020-02-10" calcext:value-type="date">
+     <table:table-cell table:style-name="ce8" table:content-validation-name="val5" office:value-type="date" office:date-value="2020-02-10" calcext:value-type="date">
       <text:p>10.02.20</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1089,16 +1084,19 @@
      <table:table-cell table:content-validation-name="val3" office:value-type="string" calcext:value-type="string">
       <text:p>yes</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$C$1:$Appointments.$C$1048576];[.$A3];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY()-30)" office:value-type="float" office:value="2" calcext:value-type="float">
+     <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$D$1:$Appointments.$D$1048576];[.$A3];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY()-30)" office:value-type="float" office:value="2" calcext:value-type="float">
       <text:p>2</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$C$1:$Appointments.$C$1048576];[.$A3];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY())" office:value-type="float" office:value="2" calcext:value-type="float">
+     <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$D$1:$Appointments.$D$1048576];[.$A3];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY())" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=SUM([.D3:.E3])" office:value-type="float" office:value="2" calcext:value-type="float">
       <text:p>2</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=SUM([.D3:.E3])" office:value-type="float" office:value="4" calcext:value-type="float">
-      <text:p>4</text:p>
+     <table:table-cell table:style-name="ce15" table:content-validation-name="val4" office:value-type="date" office:date-value="2020-01-02" calcext:value-type="date">
+      <text:p>02.01.20</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce8" table:content-validation-name="val4" office:value-type="date" office:date-value="2020-02-02" calcext:value-type="date">
+     <table:table-cell table:style-name="ce8" table:content-validation-name="val5" office:value-type="date" office:date-value="2020-02-02" calcext:value-type="date">
       <text:p>02.02.20</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="5"/>
@@ -1117,16 +1115,17 @@
      <table:table-cell table:content-validation-name="val3" office:value-type="string" calcext:value-type="string">
       <text:p>yes</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$C$1:$Appointments.$C$1048576];[.$A4];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY()-30)" office:value-type="float" office:value="1" calcext:value-type="float">
+     <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$D$1:$Appointments.$D$1048576];[.$A4];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY()-30)" office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$C$1:$Appointments.$C$1048576];[.$A4];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY())" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$D$1:$Appointments.$D$1048576];[.$A4];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY())" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell table:formula="of:=SUM([.D4:.E4])" office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
      <table:table-cell table:content-validation-name="val4"/>
+     <table:table-cell table:content-validation-name="val5"/>
      <table:table-cell table:number-columns-repeated="5"/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Sleeping</text:p>
@@ -1143,16 +1142,17 @@
      <table:table-cell table:content-validation-name="val3" office:value-type="string" calcext:value-type="string">
       <text:p>yes</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$C$1:$Appointments.$C$1048576];[.$A5];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY()-30)" office:value-type="float" office:value="2" calcext:value-type="float">
+     <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$D$1:$Appointments.$D$1048576];[.$A5];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY()-30)" office:value-type="float" office:value="2" calcext:value-type="float">
       <text:p>2</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$C$1:$Appointments.$C$1048576];[.$A5];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY())" office:value-type="float" office:value="2" calcext:value-type="float">
-      <text:p>2</text:p>
+     <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$D$1:$Appointments.$D$1048576];[.$A5];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY())" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=SUM([.D5:.E5])" office:value-type="float" office:value="4" calcext:value-type="float">
-      <text:p>4</text:p>
+     <table:table-cell table:formula="of:=SUM([.D5:.E5])" office:value-type="float" office:value="2" calcext:value-type="float">
+      <text:p>2</text:p>
      </table:table-cell>
      <table:table-cell table:content-validation-name="val4"/>
+     <table:table-cell table:content-validation-name="val5"/>
      <table:table-cell table:number-columns-repeated="5"/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Pills</text:p>
@@ -1169,16 +1169,17 @@
      <table:table-cell table:content-validation-name="val3" office:value-type="string" calcext:value-type="string">
       <text:p>yes</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$C$1:$Appointments.$C$1048576];[.$A6];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY()-30)" office:value-type="float" office:value="1" calcext:value-type="float">
+     <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$D$1:$Appointments.$D$1048576];[.$A6];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY()-30)" office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$C$1:$Appointments.$C$1048576];[.$A6];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY())" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$D$1:$Appointments.$D$1048576];[.$A6];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY())" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell table:formula="of:=SUM([.D6:.E6])" office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
      <table:table-cell table:content-validation-name="val4"/>
+     <table:table-cell table:content-validation-name="val5"/>
      <table:table-cell table:number-columns-repeated="5"/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Throat</text:p>
@@ -1201,16 +1202,17 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>no</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$C$1:$Appointments.$C$1048576];[.$A7];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY()-30)" office:value-type="float" office:value="1" calcext:value-type="float">
+     <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$D$1:$Appointments.$D$1048576];[.$A7];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY()-30)" office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$C$1:$Appointments.$C$1048576];[.$A7];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY())" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$D$1:$Appointments.$D$1048576];[.$A7];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY())" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell table:formula="of:=SUM([.D7:.E7])" office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
      <table:table-cell table:content-validation-name="val4"/>
+     <table:table-cell table:content-validation-name="val5"/>
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Strase</text:p>
@@ -1240,16 +1242,17 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>no</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$C$1:$Appointments.$C$1048576];[.$A8];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY()-30)" office:value-type="float" office:value="1" calcext:value-type="float">
+     <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$D$1:$Appointments.$D$1048576];[.$A8];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY()-30)" office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$C$1:$Appointments.$C$1048576];[.$A8];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY())" office:value-type="float" office:value="1" calcext:value-type="float">
-      <text:p>1</text:p>
+     <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$D$1:$Appointments.$D$1048576];[.$A8];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY())" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=SUM([.D8:.E8])" office:value-type="float" office:value="2" calcext:value-type="float">
-      <text:p>2</text:p>
+     <table:table-cell table:formula="of:=SUM([.D8:.E8])" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
      </table:table-cell>
      <table:table-cell table:content-validation-name="val4"/>
+     <table:table-cell table:content-validation-name="val5"/>
      <table:table-cell table:number-columns-repeated="8"/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>AX</text:p>
@@ -1261,16 +1264,17 @@
       <text:p>D8</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$C$1:$Appointments.$C$1048576];[.$A9];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY()-30)" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$D$1:$Appointments.$D$1048576];[.$A9];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY()-30)" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$C$1:$Appointments.$C$1048576];[.$A9];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY())" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$D$1:$Appointments.$D$1048576];[.$A9];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY())" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell table:formula="of:=SUM([.D9:.E9])" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell table:content-validation-name="val4"/>
+     <table:table-cell table:content-validation-name="val5"/>
      <table:table-cell table:number-columns-repeated="12"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -1278,16 +1282,17 @@
       <text:p>D9</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$C$1:$Appointments.$C$1048576];[.$A10];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY()-30)" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$D$1:$Appointments.$D$1048576];[.$A10];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY()-30)" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$D$1:$Appointments.$D$1048576];[.$A10];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY())" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$C$1:$Appointments.$C$1048576];[.$A10];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY())" office:value-type="float" office:value="0" calcext:value-type="float">
-      <text:p>0</text:p>
-     </table:table-cell>
-     <table:table-cell table:formula="of:=SUM([.D10:.E10])" office:value-type="float" office:value="0" calcext:value-type="float">
-      <text:p>0</text:p>
+     <table:table-cell table:formula="of:=SUM([.D10:.E10])" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
      </table:table-cell>
      <table:table-cell table:content-validation-name="val4"/>
+     <table:table-cell table:content-validation-name="val5"/>
      <table:table-cell table:number-columns-repeated="12"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -1295,16 +1300,17 @@
       <text:p>D10</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$C$1:$Appointments.$C$1048576];[.$A11];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY()-30)" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$D$1:$Appointments.$D$1048576];[.$A11];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY()-30)" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$C$1:$Appointments.$C$1048576];[.$A11];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY())" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$D$1:$Appointments.$D$1048576];[.$A11];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY())" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell table:formula="of:=SUM([.D11:.E11])" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell table:content-validation-name="val4"/>
+     <table:table-cell table:content-validation-name="val5"/>
      <table:table-cell table:number-columns-repeated="12"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -1312,59 +1318,67 @@
       <text:p>D11</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$C$1:$Appointments.$C$1048576];[.$A12];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY()-30)" office:value-type="float" office:value="2" calcext:value-type="float">
+     <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$D$1:$Appointments.$D$1048576];[.$A12];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY()-30)" office:value-type="float" office:value="2" calcext:value-type="float">
       <text:p>2</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$C$1:$Appointments.$C$1048576];[.$A12];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY())" office:value-type="float" office:value="2" calcext:value-type="float">
-      <text:p>2</text:p>
+     <table:table-cell table:formula="of:=COUNTIFS([$Appointments.$D$1:$Appointments.$D$1048576];[.$A12];[$Appointments.$F$1:$Appointments.$F$1048576];&quot;&gt;=&quot;&amp;TODAY())" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=SUM([.D12:.E12])" office:value-type="float" office:value="4" calcext:value-type="float">
-      <text:p>4</text:p>
+     <table:table-cell table:formula="of:=SUM([.D12:.E12])" office:value-type="float" office:value="2" calcext:value-type="float">
+      <text:p>2</text:p>
      </table:table-cell>
      <table:table-cell table:content-validation-name="val4"/>
+     <table:table-cell table:content-validation-name="val5"/>
      <table:table-cell table:number-columns-repeated="12"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="6"/>
      <table:table-cell table:content-validation-name="val4"/>
+     <table:table-cell table:content-validation-name="val5"/>
      <table:table-cell table:number-columns-repeated="12"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="6"/>
      <table:table-cell table:content-validation-name="val4"/>
+     <table:table-cell table:content-validation-name="val5"/>
      <table:table-cell table:style-name="ce10"/>
      <table:table-cell table:number-columns-repeated="11"/>
     </table:table-row>
     <table:table-row table:style-name="ro1" table:number-rows-repeated="2">
      <table:table-cell table:number-columns-repeated="3"/>
      <table:table-cell table:style-name="ce6" table:number-columns-repeated="3"/>
-     <table:table-cell table:style-name="ce8" table:content-validation-name="val4"/>
+     <table:table-cell table:style-name="ce15" table:content-validation-name="val4"/>
+     <table:table-cell table:style-name="ce8" table:content-validation-name="val5"/>
      <table:table-cell table:number-columns-repeated="12"/>
     </table:table-row>
     <table:table-row table:style-name="ro1" table:number-rows-repeated="1048559">
      <table:table-cell table:number-columns-repeated="6"/>
      <table:table-cell table:content-validation-name="val4"/>
+     <table:table-cell table:content-validation-name="val5"/>
      <table:table-cell table:number-columns-repeated="12"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="6"/>
      <table:table-cell table:content-validation-name="val4"/>
+     <table:table-cell table:content-validation-name="val5"/>
      <table:table-cell table:number-columns-repeated="12"/>
     </table:table-row>
     <calcext:conditional-formats>
-     <calcext:conditional-format calcext:target-range-address="Doc.G2:Doc.G1048576">
+     <calcext:conditional-format calcext:target-range-address="Doc.G2:Doc.H1048576">
       <calcext:condition calcext:apply-style-name="Error" calcext:value="&gt;TODAY()" calcext:base-cell-address="Doc.G2"/>
      </calcext:conditional-format>
     </calcext:conditional-formats>
    </table:table>
    <table:table table:name="Appointments" table:style-name="ta1">
-    <table:table-column table:style-name="co15" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co16" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co17" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co18" table:number-columns-repeated="2" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co1" table:default-cell-style-name="ce1"/>
+    <table:table-column table:style-name="co18" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co19" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co1" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co20" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co19" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co2" table:default-cell-style-name="ce1"/>
+    <table:table-column table:style-name="co21" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co2" table:number-columns-repeated="2" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co20" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>ID</text:p>
@@ -1373,10 +1387,10 @@
       <text:p>Patient ID</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Doc ID</text:p>
+      <text:p>Patient Name</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Patient Name</text:p>
+      <text:p>Doc ID</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Doc Name</text:p>
@@ -1387,7 +1401,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Reason</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1396,13 +1410,13 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>P1</text:p>
      </table:table-cell>
+     <table:table-cell table:formula="of:=INDEX([$Patients.$B$1:$Patients.$B$1048576];MATCH([.$B2];[$Patients.$A$1:$Patients.$A$1048576];0);0)" office:value-type="string" office:string-value="Powell" calcext:value-type="string">
+      <text:p>Powell</text:p>
+     </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>D3</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=INDEX([$Patients.$B$1:$Patients.$B$1048576];MATCH([.$B2];[$Patients.$A$1:$Patients.$A$1048576]);0)" office:value-type="string" office:string-value="Powell" calcext:value-type="string">
-      <text:p>Powell</text:p>
-     </table:table-cell>
-     <table:table-cell table:formula="of:=INDEX([$Doc.$B$1:$Doc.$B$1048576];MATCH([.$C2];[$Doc.$A$1:$Doc.$A$1048576]);0)" office:value-type="string" office:string-value="Don" calcext:value-type="string">
+     <table:table-cell table:formula="of:=INDEX([$Doc.$B$1:$Doc.$B$1048576];MATCH([.$D2];[$Doc.$A$1:$Doc.$A$1048576];0);0)" office:value-type="string" office:string-value="Don" calcext:value-type="string">
       <text:p>Don</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="date" office:date-value="2020-02-01" calcext:value-type="date">
@@ -1411,9 +1425,10 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Cough</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=MATCH([.$C2];[$Doc.$A$1:$Doc.$A$1048576])" office:value-type="float" office:value="4" calcext:value-type="float">
+     <table:table-cell table:formula="of:=MATCH([.$D2];[$Doc.$A$1:$Doc.$A$1048576])" office:value-type="float" office:value="4" calcext:value-type="float">
       <text:p>4</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1422,13 +1437,13 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>P2</text:p>
      </table:table-cell>
+     <table:table-cell table:formula="of:=INDEX([$Patients.$B$1:$Patients.$B$1048576];MATCH([.$B3];[$Patients.$A$1:$Patients.$A$1048576];0);0)" office:value-type="string" office:string-value="Pablo" calcext:value-type="string">
+      <text:p>Pablo</text:p>
+     </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>D5</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=INDEX([$Patients.$B$1:$Patients.$B$1048576];MATCH([.$B3];[$Patients.$A$1:$Patients.$A$1048576]);0)" office:value-type="float" office:value="0" calcext:value-type="float">
-      <text:p>0</text:p>
-     </table:table-cell>
-     <table:table-cell table:formula="of:=INDEX([$Doc.$B$1:$Doc.$B$1048576];MATCH([.$C3];[$Doc.$A$1:$Doc.$A$1048576]);0)" office:value-type="string" office:string-value="Diablo" calcext:value-type="string">
+     <table:table-cell table:formula="of:=INDEX([$Doc.$B$1:$Doc.$B$1048576];MATCH([.$D3];[$Doc.$A$1:$Doc.$A$1048576];0);0)" office:value-type="string" office:string-value="Diablo" calcext:value-type="string">
       <text:p>Diablo</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="date" office:date-value="2020-02-02" calcext:value-type="date">
@@ -1437,7 +1452,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Heartache</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1446,13 +1461,13 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>P3</text:p>
      </table:table-cell>
+     <table:table-cell table:formula="of:=INDEX([$Patients.$B$1:$Patients.$B$1048576];MATCH([.$B4];[$Patients.$A$1:$Patients.$A$1048576];0);0)" office:value-type="string" office:string-value="Pavel" calcext:value-type="string">
+      <text:p>Pavel</text:p>
+     </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>D6</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=INDEX([$Patients.$B$1:$Patients.$B$1048576];MATCH([.$B4];[$Patients.$A$1:$Patients.$A$1048576]);0)" office:value-type="float" office:value="0" calcext:value-type="float">
-      <text:p>0</text:p>
-     </table:table-cell>
-     <table:table-cell table:formula="of:=INDEX([$Doc.$B$1:$Doc.$B$1048576];MATCH([.$C4];[$Doc.$A$1:$Doc.$A$1048576]);0)" office:value-type="string" office:string-value="Digga" calcext:value-type="string">
+     <table:table-cell table:formula="of:=INDEX([$Doc.$B$1:$Doc.$B$1048576];MATCH([.$D4];[$Doc.$A$1:$Doc.$A$1048576];0);0)" office:value-type="string" office:string-value="Digga" calcext:value-type="string">
       <text:p>Digga</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="date" office:date-value="2020-02-03" calcext:value-type="date">
@@ -1461,7 +1476,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Who knows</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1470,13 +1485,13 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>P5</text:p>
      </table:table-cell>
+     <table:table-cell table:formula="of:=INDEX([$Patients.$B$1:$Patients.$B$1048576];MATCH([.$B5];[$Patients.$A$1:$Patients.$A$1048576];0);0)" office:value-type="string" office:string-value="Pille" calcext:value-type="string">
+      <text:p>Pille</text:p>
+     </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>D1</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=INDEX([$Patients.$B$1:$Patients.$B$1048576];MATCH([.$B5];[$Patients.$A$1:$Patients.$A$1048576]);0)" office:value-type="float" office:value="0" calcext:value-type="float">
-      <text:p>0</text:p>
-     </table:table-cell>
-     <table:table-cell table:formula="of:=INDEX([$Doc.$B$1:$Doc.$B$1048576];MATCH([.$C5];[$Doc.$A$1:$Doc.$A$1048576]);0)" office:value-type="string" office:string-value="Diane" calcext:value-type="string">
+     <table:table-cell table:formula="of:=INDEX([$Doc.$B$1:$Doc.$B$1048576];MATCH([.$D5];[$Doc.$A$1:$Doc.$A$1048576];0);0)" office:value-type="string" office:string-value="Diane" calcext:value-type="string">
       <text:p>Diane</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="date" office:date-value="2020-02-04" calcext:value-type="date">
@@ -1485,7 +1500,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Not me</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1494,13 +1509,13 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>P6</text:p>
      </table:table-cell>
+     <table:table-cell table:formula="of:=INDEX([$Patients.$B$1:$Patients.$B$1048576];MATCH([.$B6];[$Patients.$A$1:$Patients.$A$1048576];0);0)" office:value-type="string" office:string-value="Pong" calcext:value-type="string">
+      <text:p>Pong</text:p>
+     </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>D2</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=INDEX([$Patients.$B$1:$Patients.$B$1048576];MATCH([.$B6];[$Patients.$A$1:$Patients.$A$1048576]);0)" office:value-type="float" office:value="0" calcext:value-type="float">
-      <text:p>0</text:p>
-     </table:table-cell>
-     <table:table-cell table:formula="of:=INDEX([$Doc.$B$1:$Doc.$B$1048576];MATCH([.$C6];[$Doc.$A$1:$Doc.$A$1048576]);0)" office:value-type="string" office:string-value="Dean" calcext:value-type="string">
+     <table:table-cell table:formula="of:=INDEX([$Doc.$B$1:$Doc.$B$1048576];MATCH([.$D6];[$Doc.$A$1:$Doc.$A$1048576];0);0)" office:value-type="string" office:string-value="Dean" calcext:value-type="string">
       <text:p>Dean</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="date" office:date-value="2020-02-05" calcext:value-type="date">
@@ -1509,7 +1524,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>you</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1518,13 +1533,13 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>P7</text:p>
      </table:table-cell>
+     <table:table-cell table:formula="of:=INDEX([$Patients.$B$1:$Patients.$B$1048576];MATCH([.$B7];[$Patients.$A$1:$Patients.$A$1048576];0);0)" office:value-type="string" office:string-value="Perk" calcext:value-type="string">
+      <text:p>Perk</text:p>
+     </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>D4</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=INDEX([$Patients.$B$1:$Patients.$B$1048576];MATCH([.$B7];[$Patients.$A$1:$Patients.$A$1048576]);0)" office:value-type="float" office:value="0" calcext:value-type="float">
-      <text:p>0</text:p>
-     </table:table-cell>
-     <table:table-cell table:formula="of:=INDEX([$Doc.$B$1:$Doc.$B$1048576];MATCH([.$C7];[$Doc.$A$1:$Doc.$A$1048576]);0)" office:value-type="string" office:string-value="Donna" calcext:value-type="string">
+     <table:table-cell table:formula="of:=INDEX([$Doc.$B$1:$Doc.$B$1048576];MATCH([.$D7];[$Doc.$A$1:$Doc.$A$1048576];0);0)" office:value-type="string" office:string-value="Donna" calcext:value-type="string">
       <text:p>Donna</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="date" office:date-value="2020-02-06" calcext:value-type="date">
@@ -1533,7 +1548,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>us</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1542,13 +1557,13 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>P8</text:p>
      </table:table-cell>
+     <table:table-cell table:formula="of:=INDEX([$Patients.$B$1:$Patients.$B$1048576];MATCH([.$B8];[$Patients.$A$1:$Patients.$A$1048576];0);0)" office:value-type="string" office:string-value="Pal" calcext:value-type="string">
+      <text:p>Pal</text:p>
+     </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>D7</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=INDEX([$Patients.$B$1:$Patients.$B$1048576];MATCH([.$B8];[$Patients.$A$1:$Patients.$A$1048576]);0)" office:value-type="float" office:value="0" calcext:value-type="float">
-      <text:p>0</text:p>
-     </table:table-cell>
-     <table:table-cell table:formula="of:=INDEX([$Doc.$B$1:$Doc.$B$1048576];MATCH([.$C8];[$Doc.$A$1:$Doc.$A$1048576]);0)" office:value-type="string" office:string-value="Dingo" calcext:value-type="string">
+     <table:table-cell table:formula="of:=INDEX([$Doc.$B$1:$Doc.$B$1048576];MATCH([.$D8];[$Doc.$A$1:$Doc.$A$1048576];0);0)" office:value-type="string" office:string-value="Dingo" calcext:value-type="string">
       <text:p>Dingo</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="date" office:date-value="2020-02-07" calcext:value-type="date">
@@ -1557,7 +1572,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Whatevs</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1566,13 +1581,13 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>P4</text:p>
      </table:table-cell>
+     <table:table-cell table:formula="of:=INDEX([$Patients.$B$1:$Patients.$B$1048576];MATCH([.$B9];[$Patients.$A$1:$Patients.$A$1048576];0);0)" office:value-type="string" office:string-value="Pol" calcext:value-type="string">
+      <text:p>Pol</text:p>
+     </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>D2</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=INDEX([$Patients.$B$1:$Patients.$B$1048576];MATCH([.$B9];[$Patients.$A$1:$Patients.$A$1048576]);0)" office:value-type="float" office:value="0" calcext:value-type="float">
-      <text:p>0</text:p>
-     </table:table-cell>
-     <table:table-cell table:formula="of:=INDEX([$Doc.$B$1:$Doc.$B$1048576];MATCH([.$C9];[$Doc.$A$1:$Doc.$A$1048576]);0)" office:value-type="string" office:string-value="Dean" calcext:value-type="string">
+     <table:table-cell table:formula="of:=INDEX([$Doc.$B$1:$Doc.$B$1048576];MATCH([.$D9];[$Doc.$A$1:$Doc.$A$1048576];0);0)" office:value-type="string" office:string-value="Dean" calcext:value-type="string">
       <text:p>Dean</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="date" office:date-value="2020-02-08" calcext:value-type="date">
@@ -1581,7 +1596,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>bum</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1590,13 +1605,13 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>P3</text:p>
      </table:table-cell>
+     <table:table-cell table:formula="of:=INDEX([$Patients.$B$1:$Patients.$B$1048576];MATCH([.$B10];[$Patients.$A$1:$Patients.$A$1048576];0);0)" office:value-type="string" office:string-value="Pavel" calcext:value-type="string">
+      <text:p>Pavel</text:p>
+     </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>D1</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=INDEX([$Patients.$B$1:$Patients.$B$1048576];MATCH([.$B10];[$Patients.$A$1:$Patients.$A$1048576]);0)" office:value-type="float" office:value="0" calcext:value-type="float">
-      <text:p>0</text:p>
-     </table:table-cell>
-     <table:table-cell table:formula="of:=INDEX([$Doc.$B$1:$Doc.$B$1048576];MATCH([.$C10];[$Doc.$A$1:$Doc.$A$1048576]);0)" office:value-type="string" office:string-value="Diane" calcext:value-type="string">
+     <table:table-cell table:formula="of:=INDEX([$Doc.$B$1:$Doc.$B$1048576];MATCH([.$D10];[$Doc.$A$1:$Doc.$A$1048576];0);0)" office:value-type="string" office:string-value="Diane" calcext:value-type="string">
       <text:p>Diane</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="date" office:date-value="2020-02-20" calcext:value-type="date">
@@ -1605,7 +1620,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>bang</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1614,18 +1629,22 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>P4</text:p>
      </table:table-cell>
-     <table:table-cell/>
-     <table:table-cell table:formula="of:=INDEX([$Patients.$B$1:$Patients.$B$1048576];MATCH([.$B11];[$Patients.$A$1:$Patients.$A$1048576]);0)" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:formula="of:=INDEX([$Patients.$B$1:$Patients.$B$1048576];MATCH([.$B11];[$Patients.$A$1:$Patients.$A$1048576];0);0)" office:value-type="string" office:string-value="Pol" calcext:value-type="string">
+      <text:p>Pol</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>D9</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=INDEX([$Doc.$B$1:$Doc.$B$1048576];MATCH([.$D11];[$Doc.$A$1:$Doc.$A$1048576];0);0)" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0</text:p>
      </table:table-cell>
-     <table:table-cell/>
      <table:table-cell office:value-type="date" office:date-value="2020-02-10" calcext:value-type="date">
       <text:p>10.02.20</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>wamm</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1634,17 +1653,22 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>P5</text:p>
      </table:table-cell>
+     <table:table-cell table:formula="of:=INDEX([$Patients.$B$1:$Patients.$B$1048576];MATCH([.$B12];[$Patients.$A$1:$Patients.$A$1048576];0);0)" office:value-type="string" office:string-value="Pille" calcext:value-type="string">
+      <text:p>Pille</text:p>
+     </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>D11</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:formula="of:=INDEX([$Doc.$B$1:$Doc.$B$1048576];MATCH([.$D12];[$Doc.$A$1:$Doc.$A$1048576];0);0)" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
+     </table:table-cell>
      <table:table-cell office:value-type="date" office:date-value="2020-02-11" calcext:value-type="date">
       <text:p>11.02.20</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Zing</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1653,17 +1677,22 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>P4</text:p>
      </table:table-cell>
+     <table:table-cell table:formula="of:=INDEX([$Patients.$B$1:$Patients.$B$1048576];MATCH([.$B13];[$Patients.$A$1:$Patients.$A$1048576];0);0)" office:value-type="string" office:string-value="Pol" calcext:value-type="string">
+      <text:p>Pol</text:p>
+     </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>D11</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:formula="of:=INDEX([$Doc.$B$1:$Doc.$B$1048576];MATCH([.$D13];[$Doc.$A$1:$Doc.$A$1048576];0);0)" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
+     </table:table-cell>
      <table:table-cell office:value-type="date" office:date-value="2020-02-12" calcext:value-type="date">
       <text:p>12.02.20</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Zack</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1672,14 +1701,20 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>P5</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:formula="of:=INDEX([$Patients.$B$1:$Patients.$B$1048576];MATCH([.$B14];[$Patients.$A$1:$Patients.$A$1048576];0);0)" office:value-type="string" office:string-value="Pille" calcext:value-type="string">
+      <text:p>Pille</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:formula="of:=INDEX([$Doc.$B$1:$Doc.$B$1048576];MATCH([.$D14];[$Doc.$A$1:$Doc.$A$1048576];0);0)" office:value-type="string" office:string-value="" calcext:value-type="error">
+      <text:p>#N/A</text:p>
+     </table:table-cell>
      <table:table-cell office:value-type="date" office:date-value="2020-02-13" calcext:value-type="date">
       <text:p>13.02.20</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>TEST</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1688,30 +1723,42 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>P5</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:formula="of:=INDEX([$Patients.$B$1:$Patients.$B$1048576];MATCH([.$B15];[$Patients.$A$1:$Patients.$A$1048576];0);0)" office:value-type="string" office:string-value="Pille" calcext:value-type="string">
+      <text:p>Pille</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:formula="of:=INDEX([$Doc.$B$1:$Doc.$B$1048576];MATCH([.$D15];[$Doc.$A$1:$Doc.$A$1048576];0);0)" office:value-type="string" office:string-value="" calcext:value-type="error">
+      <text:p>#N/A</text:p>
+     </table:table-cell>
      <table:table-cell office:value-type="date" office:date-value="2020-02-14" calcext:value-type="date">
       <text:p>14.02.20</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>TEST</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>A15</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>P3</text:p>
+      <text:p>P12</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:formula="of:=INDEX([$Patients.$B$1:$Patients.$B$1048576];MATCH([.$B16];[$Patients.$A$1:$Patients.$A$1048576];0);0)" office:value-type="string" office:string-value="Dork" calcext:value-type="string">
+      <text:p>Dork</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:formula="of:=INDEX([$Doc.$B$1:$Doc.$B$1048576];MATCH([.$D16];[$Doc.$A$1:$Doc.$A$1048576];0);0)" office:value-type="string" office:string-value="" calcext:value-type="error">
+      <text:p>#N/A</text:p>
+     </table:table-cell>
      <table:table-cell office:value-type="date" office:date-value="2020-02-15" calcext:value-type="date">
       <text:p>15.02.20</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>TEST</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1720,17 +1767,22 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>P4</text:p>
      </table:table-cell>
+     <table:table-cell table:formula="of:=INDEX([$Patients.$B$1:$Patients.$B$1048576];MATCH([.$B17];[$Patients.$A$1:$Patients.$A$1048576];0);0)" office:value-type="string" office:string-value="Pol" calcext:value-type="string">
+      <text:p>Pol</text:p>
+     </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>D4</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:formula="of:=INDEX([$Doc.$B$1:$Doc.$B$1048576];MATCH([.$D17];[$Doc.$A$1:$Doc.$A$1048576];0);0)" office:value-type="string" office:string-value="Donna" calcext:value-type="string">
+      <text:p>Donna</text:p>
+     </table:table-cell>
      <table:table-cell office:value-type="date" office:date-value="2020-02-16" calcext:value-type="date">
       <text:p>16.02.20</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>zeppo</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1739,94 +1791,181 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>P5</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:formula="of:=INDEX([$Patients.$B$1:$Patients.$B$1048576];MATCH([.$B18];[$Patients.$A$1:$Patients.$A$1048576];0);0)" office:value-type="string" office:string-value="Pille" calcext:value-type="string">
+      <text:p>Pille</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:formula="of:=INDEX([$Doc.$B$1:$Doc.$B$1048576];MATCH([.$D18];[$Doc.$A$1:$Doc.$A$1048576];0);0)" office:value-type="string" office:string-value="" calcext:value-type="error">
+      <text:p>#N/A</text:p>
+     </table:table-cell>
      <table:table-cell office:value-type="date" office:date-value="2020-02-17" calcext:value-type="date">
       <text:p>17.02.20</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>ziro</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>A18</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="4"/>
+     <table:table-cell/>
+     <table:table-cell table:formula="of:=INDEX([$Patients.$B$1:$Patients.$B$1048576];MATCH([.$B19];[$Patients.$A$1:$Patients.$A$1048576];0);0)" office:value-type="string" office:string-value="" calcext:value-type="error">
+      <text:p>#N/A</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:formula="of:=INDEX([$Doc.$B$1:$Doc.$B$1048576];MATCH([.$D19];[$Doc.$A$1:$Doc.$A$1048576];0);0)" office:value-type="string" office:string-value="" calcext:value-type="error">
+      <text:p>#N/A</text:p>
+     </table:table-cell>
      <table:table-cell office:value-type="date" office:date-value="2020-02-18" calcext:value-type="date">
       <text:p>18.02.20</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="4"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>A19</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="4"/>
+     <table:table-cell/>
+     <table:table-cell table:formula="of:=INDEX([$Patients.$B$1:$Patients.$B$1048576];MATCH([.$B20];[$Patients.$A$1:$Patients.$A$1048576];0);0)" office:value-type="string" office:string-value="" calcext:value-type="error">
+      <text:p>#N/A</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:formula="of:=INDEX([$Doc.$B$1:$Doc.$B$1048576];MATCH([.$D20];[$Doc.$A$1:$Doc.$A$1048576];0);0)" office:value-type="string" office:string-value="" calcext:value-type="error">
+      <text:p>#N/A</text:p>
+     </table:table-cell>
      <table:table-cell office:value-type="date" office:date-value="2020-02-19" calcext:value-type="date">
       <text:p>19.02.20</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="4"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>A20</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="4"/>
+     <table:table-cell/>
+     <table:table-cell table:formula="of:=INDEX([$Patients.$B$1:$Patients.$B$1048576];MATCH([.$B21];[$Patients.$A$1:$Patients.$A$1048576];0);0)" office:value-type="string" office:string-value="" calcext:value-type="error">
+      <text:p>#N/A</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:formula="of:=INDEX([$Doc.$B$1:$Doc.$B$1048576];MATCH([.$D21];[$Doc.$A$1:$Doc.$A$1048576];0);0)" office:value-type="string" office:string-value="" calcext:value-type="error">
+      <text:p>#N/A</text:p>
+     </table:table-cell>
      <table:table-cell office:value-type="date" office:date-value="2020-02-20" calcext:value-type="date">
       <text:p>20.02.20</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="4"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>A21</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="4"/>
+     <table:table-cell/>
+     <table:table-cell table:formula="of:=INDEX([$Patients.$B$1:$Patients.$B$1048576];MATCH([.$B22];[$Patients.$A$1:$Patients.$A$1048576];0);0)" office:value-type="string" office:string-value="" calcext:value-type="error">
+      <text:p>#N/A</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:formula="of:=INDEX([$Doc.$B$1:$Doc.$B$1048576];MATCH([.$D22];[$Doc.$A$1:$Doc.$A$1048576];0);0)" office:value-type="string" office:string-value="" calcext:value-type="error">
+      <text:p>#N/A</text:p>
+     </table:table-cell>
      <table:table-cell office:value-type="date" office:date-value="2020-02-21" calcext:value-type="date">
       <text:p>21.02.20</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="4"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>A22</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="4"/>
+     <table:table-cell/>
+     <table:table-cell table:formula="of:=INDEX([$Patients.$B$1:$Patients.$B$1048576];MATCH([.$B23];[$Patients.$A$1:$Patients.$A$1048576];0);0)" office:value-type="string" office:string-value="" calcext:value-type="error">
+      <text:p>#N/A</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:formula="of:=INDEX([$Doc.$B$1:$Doc.$B$1048576];MATCH([.$D23];[$Doc.$A$1:$Doc.$A$1048576];0);0)" office:value-type="string" office:string-value="" calcext:value-type="error">
+      <text:p>#N/A</text:p>
+     </table:table-cell>
      <table:table-cell office:value-type="date" office:date-value="2020-02-22" calcext:value-type="date">
       <text:p>22.02.20</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="4"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>A23</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="4"/>
+     <table:table-cell/>
+     <table:table-cell table:formula="of:=INDEX([$Patients.$B$1:$Patients.$B$1048576];MATCH([.$B24];[$Patients.$A$1:$Patients.$A$1048576];0);0)" office:value-type="string" office:string-value="" calcext:value-type="error">
+      <text:p>#N/A</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:formula="of:=INDEX([$Doc.$B$1:$Doc.$B$1048576];MATCH([.$D24];[$Doc.$A$1:$Doc.$A$1048576];0);0)" office:value-type="string" office:string-value="" calcext:value-type="error">
+      <text:p>#N/A</text:p>
+     </table:table-cell>
      <table:table-cell office:value-type="date" office:date-value="2020-02-23" calcext:value-type="date">
       <text:p>23.02.20</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="4"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>A24</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="4"/>
+     <table:table-cell/>
+     <table:table-cell table:formula="of:=INDEX([$Patients.$B$1:$Patients.$B$1048576];MATCH([.$B25];[$Patients.$A$1:$Patients.$A$1048576];0);0)" office:value-type="string" office:string-value="" calcext:value-type="error">
+      <text:p>#N/A</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:formula="of:=INDEX([$Doc.$B$1:$Doc.$B$1048576];MATCH([.$D25];[$Doc.$A$1:$Doc.$A$1048576];0);0)" office:value-type="string" office:string-value="" calcext:value-type="error">
+      <text:p>#N/A</text:p>
+     </table:table-cell>
      <table:table-cell office:value-type="date" office:date-value="2020-02-24" calcext:value-type="date">
       <text:p>24.02.20</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="4"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:formula="of:=INDEX([$Patients.$B$1:$Patients.$B$1048576];MATCH([.$B26];[$Patients.$A$1:$Patients.$A$1048576];0);0)" office:value-type="string" office:string-value="" calcext:value-type="error">
+      <text:p>#N/A</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:formula="of:=INDEX([$Doc.$B$1:$Doc.$B$1048576];MATCH([.$D26];[$Doc.$A$1:$Doc.$A$1048576];0);0)" office:value-type="string" office:string-value="" calcext:value-type="error">
+      <text:p>#N/A</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Default"/>
+     <table:table-cell table:number-columns-repeated="4"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:formula="of:=INDEX([$Patients.$B$1:$Patients.$B$1048576];MATCH([.$B27];[$Patients.$A$1:$Patients.$A$1048576];0);0)" office:value-type="string" office:string-value="" calcext:value-type="error">
+      <text:p>#N/A</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:formula="of:=INDEX([$Doc.$B$1:$Doc.$B$1048576];MATCH([.$D27];[$Doc.$A$1:$Doc.$A$1048576];0);0)" office:value-type="string" office:string-value="" calcext:value-type="error">
+      <text:p>#N/A</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Default"/>
+     <table:table-cell table:number-columns-repeated="4"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="4"/>
+     <table:table-cell table:formula="of:=INDEX([$Doc.$B$1:$Doc.$B$1048576];MATCH([.$D28];[$Doc.$A$1:$Doc.$A$1048576];0);0)" office:value-type="string" office:string-value="" calcext:value-type="error">
+      <text:p>#N/A</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Default"/>
+     <table:table-cell table:number-columns-repeated="4"/>
     </table:table-row>
    </table:table>
    <table:table table:name="Directions" table:style-name="ta1">
-    <table:table-column table:style-name="co1" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co2" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro1">
      <table:table-cell/>
     </table:table-row>
    </table:table>
    <table:table table:name="Inventory" table:style-name="ta1">
-    <table:table-column table:style-name="co1" table:number-columns-repeated="4" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co2" table:number-columns-repeated="4" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Name</text:p>
@@ -1864,13 +2003,14 @@
     </table:table-row>
    </table:table>
    <table:table table:name="Checklist" table:style-name="ta1">
-    <table:table-column table:style-name="co20" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co21" table:default-cell-style-name="Default"/>
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+    <table:table-column table:style-name="co22" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co23" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Has the person been here before?</text:p>
      </table:table-cell>
-     <table:table-cell table:content-validation-name="val5" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:content-validation-name="val6" office:value-type="string" calcext:value-type="string">
       <text:p>yes</text:p>
      </table:table-cell>
     </table:table-row>
@@ -1902,7 +2042,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Expertise which would help</text:p>
      </table:table-cell>
-     <table:table-cell table:content-validation-name="val6" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:content-validation-name="val7" office:value-type="string" calcext:value-type="string">
       <text:p>Pills</text:p>
      </table:table-cell>
     </table:table-row>
@@ -1915,23 +2055,23 @@
    </table:table>
    <table:named-expressions/>
    <table:database-ranges>
-    <table:database-range table:name="__Anonymous_Sheet_DB__1" table:target-range-address="Doc.L1:Doc.O7" table:orientation="column">
-     <table:filter table:condition-source-range-address="Doc.L1:Doc.S1048576">
+    <table:database-range table:name="__Anonymous_Sheet_DB__1" table:target-range-address="Doc.M1:Doc.P7" table:orientation="column">
+     <table:filter table:condition-source-range-address="Doc.M1:Doc.T1048576">
       <table:filter-or>
-       <table:filter-condition table:field-number="12" table:value="Snuggles" table:operator="="/>
-       <table:filter-condition table:field-number="12" table:value="Pills" table:operator="="/>
-       <table:filter-condition table:field-number="12" table:value="Sleeping" table:operator="="/>
-       <table:filter-condition table:field-number="12" table:value="Pills" table:operator="="/>
+       <table:filter-condition table:field-number="13" table:value="Snuggles" table:operator="="/>
+       <table:filter-condition table:field-number="13" table:value="Pills" table:operator="="/>
+       <table:filter-condition table:field-number="13" table:value="Sleeping" table:operator="="/>
+       <table:filter-condition table:field-number="13" table:value="Pills" table:operator="="/>
        <table:filter-and>
-        <table:filter-condition table:field-number="12" table:value="Throat" table:operator="="/>
-        <table:filter-condition table:field-number="11" table:value="Ears" table:operator="="/>
-        <table:filter-condition table:field-number="11" table:value="Mouth" table:operator="="/>
+        <table:filter-condition table:field-number="13" table:value="Throat" table:operator="="/>
+        <table:filter-condition table:field-number="12" table:value="Ears" table:operator="="/>
+        <table:filter-condition table:field-number="12" table:value="Mouth" table:operator="="/>
        </table:filter-and>
        <table:filter-and>
-        <table:filter-condition table:field-number="11" table:value="walla" table:operator="="/>
-        <table:filter-condition table:field-number="12" table:value="Knife" table:operator="="/>
-        <table:filter-condition table:field-number="11" table:value="Nose" table:operator="="/>
-        <table:filter-condition table:field-number="11" table:value="brabb" table:operator="="/>
+        <table:filter-condition table:field-number="12" table:value="walla" table:operator="="/>
+        <table:filter-condition table:field-number="13" table:value="Knife" table:operator="="/>
+        <table:filter-condition table:field-number="12" table:value="Nose" table:operator="="/>
+        <table:filter-condition table:field-number="12" table:value="brabb" table:operator="="/>
        </table:filter-and>
       </table:filter-or>
      </table:filter>
