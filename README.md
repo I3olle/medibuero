@@ -2,6 +2,8 @@
 
 This project aims to provide a simple yet helpful solution for digitalising the mass of data produced by the ongoing patient visits which may be hectic from time to time. It contains a place for future to dos, data about the docs/offices/hopitals, data about the appointments and a checklist when talking to a patient which produces a printable handout for both patient and doctor.
 
+The file mediburo.ods contains sample data without any meaning just to show what can be added and how it may look. Remove any unnecessary data before you start using it.
+
 
 ## Prerequisites
 
@@ -23,6 +25,8 @@ This is the program used to create the sheets and tables. It is the open source 
 Dunsitfy is a nice to have for linux machines and shows little notification icons when running the backup script but can be ignored. If the notifications are not needed, just delete the linues containing "dunstify" form the backup.sh script.
 
 ## Usage
+
+Open the .ods file with libreoffice
 
 The document consists of a few sheets. The sheets are:
 
