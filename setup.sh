@@ -2,6 +2,7 @@
 
 set -e
 
+rm -rf .git
 libreoffice --convert-to fods *.ods
 git init
 git add .gitignore
